@@ -5,7 +5,7 @@ from analyzer import analyze_all_events
 from export import export_to_json
 
 def main():
-    print("--- Starting Arendt News Agent ---")
+    print("--- Starting Parallax News Agent ---")
     # Initialize DB if not exists
     init_db()
     

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Arendt - News Structure",
+  title: "Parallax - News Structure",
   description: "Visualizing the structure of news reporting",
 };
 

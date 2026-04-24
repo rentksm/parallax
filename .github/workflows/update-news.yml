@@ -1,4 +1,4 @@
-name: Update Arendt News Data
+name: Update Parallax News Data
 
 on:
   schedule:
@@ -29,7 +29,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install duckdb feedparser scikit-learn pandas pytz
           
-      - name: Run Arendt News Agent
+      - name: Run Parallax News Agent
         run: |
           cd backend
           python main.py
