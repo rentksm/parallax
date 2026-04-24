@@ -1,8 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 
-// Construct the absolute path to the backend data.json file
-const dataPath = path.resolve(process.cwd(), '../backend/data.json');
+// Construct the absolute path to data.json in the public directory
+// This file is updated by the backend and committed to git
+const dataPath = path.resolve(process.cwd(), 'public/data.json');
 
 export function getData() {
     const fileContents = fs.readFileSync(dataPath, 'utf8');

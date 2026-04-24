@@ -34,13 +34,17 @@ jobs:
           cd backend
           python main.py
           
+      - name: Copy data.json to frontend public
+        run: |
+          cp backend/data.json frontend/public/data.json
+          
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
           # Only commit if there are changes to the backend files
-          git add backend/news.duckdb backend/data.json
+          git add backend/news.duckdb backend/data.json frontend/public/data.json
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
