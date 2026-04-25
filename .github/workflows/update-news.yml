@@ -21,13 +21,13 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip' # Optional: Cache pip dependencies
+          cache: 'pip'
+          cache-dependency-path: 'backend/requirements.txt'
           
       - name: Install backend dependencies
         run: |
-          cd backend
           python -m pip install --upgrade pip
-          pip install duckdb feedparser scikit-learn pandas pytz
+          pip install -r backend/requirements.txt
           
       - name: Run Parallax News Agent
         run: |
