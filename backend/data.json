@@ -1,6 +1,149 @@
 {
   "stories": [
     {
+      "id": "dc1c23c0-8e6e-464b-8b4d-3f15718ccdd8",
+      "title": "\u6bd4\u306e\u56fd\u9632\u76f8 \u65e5\u672c\u306e\u6b66\u5668\u8f38\u51fa\u671f\u5f85",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"dc1c23c0-8e6e-464b-8b4d-3f15718ccdd8\", \"story_title\": \"\\u6bd4\\u306e\\u56fd\\u9632\\u76f8 \\u65e5\\u672c\\u306e\\u6b66\\u5668\\u8f38\\u51fa\\u671f\\u5f85\", \"events\": [{\"event_id\": \"98bca1da-db22-4aec-8e32-4af74287ca76\", \"event_title\": \"\\u6bd4\\u306e\\u56fd\\u9632\\u76f8 \\u65e5\\u672c\\u306e\\u6b66\\u5668\\u8f38\\u51fa\\u671f\\u5f85\", \"time_slices\": [{\"timestamp\": \"2026-05-31T08:40:08.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Yahoo World\", \"title\": \"\\u6bd4\\u306e\\u56fd\\u9632\\u76f8 \\u65e5\\u672c\\u306e\\u6b66\\u5668\\u8f38\\u51fa\\u671f\\u5f85\", \"url\": \"https://news.yahoo.co.jp/pickup/6582437?source=rss\", \"stance_keywords\": []}], \"summary_keywords\": []}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Yahoo World\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Yahoo World\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T08:40:08.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "Yahoo World"
+    },
+    {
+      "id": "80781e82-8286-4dad-938e-9a33908b2e08",
+      "title": "The strait may reopen, but global confidence may not return",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"80781e82-8286-4dad-938e-9a33908b2e08\", \"story_title\": \"The strait may reopen, but global confidence may not return\", \"events\": [{\"event_id\": \"71d946ca-f66f-44ce-a83e-a22141b1ff6c\", \"event_title\": \"The strait may reopen, but global confidence may not return\", \"time_slices\": [{\"timestamp\": \"2026-05-31T08:30:28.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Al Jazeera\", \"title\": \"The strait may reopen, but global confidence may not return\", \"url\": \"https://www.aljazeera.com/opinions/2026/5/31/the-strait-may-reopen-but-global-confidence-may-not-return?traffic_source=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"strait\", \"reopen\", \"global\", \"confidence\", \"return\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Al Jazeera\": 1}, \"country_distribution\": {\"Middle East\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Al Jazeera\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T08:30:28.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "Al Jazeera"
+    },
+    {
+      "id": "68512c7a-58a0-437c-ae0a-55ed7a7cedd2",
+      "title": "For SpaceX, global dominance may not be written in the stars",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"68512c7a-58a0-437c-ae0a-55ed7a7cedd2\", \"story_title\": \"For SpaceX, global dominance may not be written in the stars\", \"events\": [{\"event_id\": \"28e8d8cd-3698-4c4e-a81d-dd0cba6cd36e\", \"event_title\": \"For SpaceX, global dominance may not be written in the stars\", \"time_slices\": [{\"timestamp\": \"2026-05-31T08:30:05.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"For SpaceX, global dominance may not be written in the stars\", \"url\": \"https://www.scmp.com/opinion/world-opinion/article/3355072/spacex-global-dominance-may-not-be-written-stars?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"spacex\", \"global\", \"dominance\", \"written\", \"stars\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"SCMP\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T08:30:05.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "SCMP"
+    },
+    {
+      "id": "a3bed155-23ca-43e0-b6ee-d7afcd1ac5cd",
+      "title": "Swing Youth: In Nazi Germany, jazz was an act of defiance",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"a3bed155-23ca-43e0-b6ee-d7afcd1ac5cd\", \"story_title\": \"Swing Youth: In Nazi Germany, jazz was an act of defiance\", \"events\": [{\"event_id\": \"c7e72d0b-c850-4d38-a03d-3df56a0bc3ac\", \"event_title\": \"Swing Youth: In Nazi Germany, jazz was an act of defiance\", \"time_slices\": [{\"timestamp\": \"2026-05-31T08:05:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"Swing Youth: In Nazi Germany, jazz was an act of defiance\", \"url\": \"https://www.dw.com/en/swing-youth-in-nazi-germany-jazz-was-an-act-of-defiance/a-77143547?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"swing\", \"youth\", \"nazi\", \"germany\", \"jazz\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"DW\": 1}, \"country_distribution\": {\"Europe\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"DW\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T08:05:00.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "DW"
+    },
+    {
+      "id": "87c0f597-f875-438c-96e7-59512a351b64",
+      "title": "China woman nearly dies after becoming tangled in fishing line while riding bike at night",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"87c0f597-f875-438c-96e7-59512a351b64\", \"story_title\": \"China woman nearly dies after becoming tangled in fishing line while riding bike at night\", \"events\": [{\"event_id\": \"f6373b95-0b6f-49c7-8e42-3d592b9ec0be\", \"event_title\": \"China woman nearly dies after becoming tangled in fishing line while riding bike at night\", \"time_slices\": [{\"timestamp\": \"2026-05-31T08:00:06.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"China woman nearly dies after becoming tangled in fishing line while riding bike at night\", \"url\": \"https://www.scmp.com/news/people-culture/trending-china/article/3355144/china-woman-nearly-dies-after-becoming-tangled-fishing-line-while-riding-bike-night?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"china\", \"woman\", \"nearly\", \"dies\", \"becoming\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"SCMP\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T08:00:06.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "SCMP"
+    },
+    {
+      "id": "64876f60-b284-4a9b-8163-c6122bed7e84",
+      "title": "Goodbye, Norma Jeane: How Marilyn Monroe changed Hollywood",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"64876f60-b284-4a9b-8163-c6122bed7e84\", \"story_title\": \"Goodbye, Norma Jeane: How Marilyn Monroe changed Hollywood\", \"events\": [{\"event_id\": \"3b9ea3ac-ef03-4bcf-9a75-8493b26bfa1d\", \"event_title\": \"Goodbye, Norma Jeane: How Marilyn Monroe changed Hollywood\", \"time_slices\": [{\"timestamp\": \"2026-05-31T07:18:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"Goodbye, Norma Jeane: How Marilyn Monroe changed Hollywood\", \"url\": \"https://www.dw.com/en/goodbye-norma-jeane-how-marilyn-monroe-changed-hollywood/a-77342887?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"goodbye\", \"norma\", \"jeane\", \"marilyn\", \"monroe\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"DW\": 1}, \"country_distribution\": {\"Europe\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"DW\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T07:18:00.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "DW"
+    },
+    {
+      "id": "a5d6f4da-c9d2-48fc-b5e2-9017b9503748",
+      "title": "Where Is Toronto\u2019s Best Party? Try the Basement.",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"a5d6f4da-c9d2-48fc-b5e2-9017b9503748\", \"story_title\": \"Where Is Toronto\\u2019s Best Party? Try the Basement.\", \"events\": [{\"event_id\": \"a03a63b1-6343-436e-932b-520e613d897c\", \"event_title\": \"Where Is Toronto\\u2019s Best Party? Try the Basement.\", \"time_slices\": [{\"timestamp\": \"2026-05-31T07:00:12.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NYT\", \"title\": \"Where Is Toronto\\u2019s Best Party? Try the Basement.\", \"url\": \"https://www.nytimes.com/2026/05/31/world/canada/toronto-basement-jams-caribbean-diaspora.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"where\", \"toronto\", \"best\", \"party\", \"basement\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"NYT\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"NYT\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T07:00:12.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "NYT"
+    },
+    {
+      "id": "07f2d80d-8099-4bc1-987d-e9b3975619cf",
+      "title": "\u4ecf\u3067\u30b5\u30dd\u304c\u66b4\u5f92\u5316 400\u4eba\u4ee5\u4e0a\u62d8\u675f",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"07f2d80d-8099-4bc1-987d-e9b3975619cf\", \"story_title\": \"\\u4ecf\\u3067\\u30b5\\u30dd\\u304c\\u66b4\\u5f92\\u5316 400\\u4eba\\u4ee5\\u4e0a\\u62d8\\u675f\", \"events\": [{\"event_id\": \"55e94f30-5fdb-4972-828e-e63392fbbb18\", \"event_title\": \"\\u4ecf\\u3067\\u30b5\\u30dd\\u304c\\u66b4\\u5f92\\u5316 400\\u4eba\\u4ee5\\u4e0a\\u62d8\\u675f\", \"time_slices\": [{\"timestamp\": \"2026-05-31T06:50:42.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Yahoo World\", \"title\": \"\\u4ecf\\u3067\\u30b5\\u30dd\\u304c\\u66b4\\u5f92\\u5316 400\\u4eba\\u4ee5\\u4e0a\\u62d8\\u675f\", \"url\": \"https://news.yahoo.co.jp/pickup/6582425?source=rss\", \"stance_keywords\": []}], \"summary_keywords\": []}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Yahoo World\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Yahoo World\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T06:50:42.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "Yahoo World"
+    },
+    {
+      "id": "092fbb86-54f9-40ff-b9d7-19174487a6c0",
+      "title": "WHO\u4e8b\u52d9\u5c40\u9577 \u30a8\u30dc\u30e9\u51fa\u8840\u71b1\u6d41\u884c\u78ba\u8a8d\u306e\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd\u3092\u8a2a\u554f",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"092fbb86-54f9-40ff-b9d7-19174487a6c0\", \"story_title\": \"WHO\\u4e8b\\u52d9\\u5c40\\u9577 \\u30a8\\u30dc\\u30e9\\u51fa\\u8840\\u71b1\\u6d41\\u884c\\u78ba\\u8a8d\\u306e\\u30b3\\u30f3\\u30b4\\u6c11\\u4e3b\\u5171\\u548c\\u56fd\\u3092\\u8a2a\\u554f\", \"events\": [{\"event_id\": \"06fad97d-6add-43dc-a83b-12e1e4f270db\", \"event_title\": \"WHO\\u4e8b\\u52d9\\u5c40\\u9577 \\u30a8\\u30dc\\u30e9\\u51fa\\u8840\\u71b1\\u6d41\\u884c\\u78ba\\u8a8d\\u306e\\u30b3\\u30f3\\u30b4\\u6c11\\u4e3b\\u5171\\u548c\\u56fd\\u3092\\u8a2a\\u554f\", \"time_slices\": [{\"timestamp\": \"2026-05-31T06:47:22.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NHK\", \"title\": \"WHO\\u4e8b\\u52d9\\u5c40\\u9577 \\u30a8\\u30dc\\u30e9\\u51fa\\u8840\\u71b1\\u6d41\\u884c\\u78ba\\u8a8d\\u306e\\u30b3\\u30f3\\u30b4\\u6c11\\u4e3b\\u5171\\u548c\\u56fd\\u3092\\u8a2a\\u554f\", \"url\": \"https://news.web.nhk/newsweb/na/na-k10015136421000\", \"stance_keywords\": []}], \"summary_keywords\": []}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"NHK\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"NHK\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T06:47:22.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "NHK"
+    },
+    {
+      "id": "a7f61c91-0b3c-41f1-8d44-fb617aff415f",
+      "title": "Meteor fireball triggered loud boom across New England, NASA confirms",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"a7f61c91-0b3c-41f1-8d44-fb617aff415f\", \"story_title\": \"Meteor fireball triggered loud boom across New England, NASA confirms\", \"events\": [{\"event_id\": \"5268e699-dbe0-4298-a71b-ff92fce76e6d\", \"event_title\": \"Meteor fireball triggered loud boom across New England, NASA confirms\", \"time_slices\": [{\"timestamp\": \"2026-05-31T05:39:56.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Meteor fireball triggered loud boom across New England, NASA confirms\", \"url\": \"https://www.straitstimes.com/world/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms\", \"stance_keywords\": []}], \"summary_keywords\": [\"meteor\", \"fireball\", \"triggered\", \"loud\", \"boom\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T05:39:56.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "Straits Times"
+    },
+    {
+      "id": "5d7d3917-c225-40e5-8958-564ea1964bf0",
+      "title": "Taiwan Vows Not to Be \u2018Silenced\u2019 After China Expels NYT Reporter",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"5d7d3917-c225-40e5-8958-564ea1964bf0\", \"story_title\": \"Taiwan Vows Not to Be \\u2018Silenced\\u2019 After China Expels NYT Reporter\", \"events\": [{\"event_id\": \"35c8b94d-72ba-4486-a75a-6cfa3f7a6a68\", \"event_title\": \"Taiwan Vows Not to Be \\u2018Silenced\\u2019 After China Expels NYT Reporter\", \"time_slices\": [{\"timestamp\": \"2026-05-31T05:39:18.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"Taiwan Vows Not to Be \\u2018Silenced\\u2019 After China Expels NYT Reporter\", \"url\": \"https://www.bloomberg.com/news/articles/2026-05-31/taiwan-vows-not-to-be-silenced-after-china-expels-nyt-reporter\", \"stance_keywords\": []}], \"summary_keywords\": [\"taiwan\", \"vows\", \"silenced\", \"china\", \"expels\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T05:39:18.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "Bloomberg"
+    },
+    {
+      "id": "e2d269f3-b11c-4479-b195-2227554b15fb",
+      "title": "How an HKU-developed eczema product could help fight superbug threat",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"e2d269f3-b11c-4479-b195-2227554b15fb\", \"story_title\": \"How an HKU-developed eczema product could help fight superbug threat\", \"events\": [{\"event_id\": \"274bba38-2a80-4e86-8e7f-0c5c5c82fc30\", \"event_title\": \"How an HKU-developed eczema product could help fight superbug threat\", \"time_slices\": [{\"timestamp\": \"2026-05-31T04:36:34.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"How an HKU-developed eczema product could help fight superbug threat\", \"url\": \"https://www.scmp.com/news/hong-kong/health-environment/article/3355445/how-hku-developed-eczema-product-could-help-fight-superbug-threat?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"developed\", \"eczema\", \"product\", \"could\", \"help\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"SCMP\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T04:36:34.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "SCMP"
+    },
+    {
+      "id": "8c14dc12-fecd-4036-9cec-f916119d050e",
+      "title": "\u7c73\u5efa\u56fd250\u5e74\u8a18\u5ff5\u30b3\u30f3\u30b5\u30fc\u30c8 \u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u51fa\u6f14\u8f9e\u9000\u76f8\u6b21\u3050",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"8c14dc12-fecd-4036-9cec-f916119d050e\", \"story_title\": \"\\u7c73\\u5efa\\u56fd250\\u5e74\\u8a18\\u5ff5\\u30b3\\u30f3\\u30b5\\u30fc\\u30c8 \\u30a2\\u30fc\\u30c6\\u30a3\\u30b9\\u30c8\\u306e\\u51fa\\u6f14\\u8f9e\\u9000\\u76f8\\u6b21\\u3050\", \"events\": [{\"event_id\": \"70e7c3e0-a8d8-4a58-9c21-ff9b8f244774\", \"event_title\": \"\\u7c73\\u5efa\\u56fd250\\u5e74\\u8a18\\u5ff5\\u30b3\\u30f3\\u30b5\\u30fc\\u30c8 \\u30a2\\u30fc\\u30c6\\u30a3\\u30b9\\u30c8\\u306e\\u51fa\\u6f14\\u8f9e\\u9000\\u76f8\\u6b21\\u3050\", \"time_slices\": [{\"timestamp\": \"2026-05-31T04:30:16.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NHK\", \"title\": \"\\u7c73\\u5efa\\u56fd250\\u5e74\\u8a18\\u5ff5\\u30b3\\u30f3\\u30b5\\u30fc\\u30c8 \\u30a2\\u30fc\\u30c6\\u30a3\\u30b9\\u30c8\\u306e\\u51fa\\u6f14\\u8f9e\\u9000\\u76f8\\u6b21\\u3050\", \"url\": \"https://news.web.nhk/newsweb/na/na-k10015136391000\", \"stance_keywords\": []}], \"summary_keywords\": []}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"NHK\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"NHK\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-31T04:30:16.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "NHK"
+    },
+    {
       "id": "0ca202e6-968c-4cf1-a873-5ee09ef409bc",
       "title": "In Taiwan, \u2018Mainland Spouses\u2019 From China Become a Focus of Infiltration Fears",
       "topic": "Other",
@@ -95,9 +238,9 @@
       "structured_data": "{\"story_id\": \"1d1075fb-a077-4c54-b07d-855a8c135eaa\", \"story_title\": \"Meteor explodes over US with blast equivalent to 300 tonnes of TNT\", \"events\": [{\"event_id\": \"7fe99fe8-ab65-452e-8c0b-2ee017772acf\", \"event_title\": \"Meteor explodes over US with blast equivalent to 300 tonnes of TNT\", \"time_slices\": [{\"timestamp\": \"2026-05-31T00:34:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Meteor explodes over US with blast equivalent to 300 tonnes of TNT\", \"url\": \"https://www.straitstimes.com/world/united-states/meteor-explodes-over-us-with-blast-equivalent-to-300-tons-of-tnt\", \"stance_keywords\": []}, {\"source\": \"The Hindu\", \"title\": \"Meteor explodes over U.S. with blast equivalent to 300 tonnes of TNT\", \"url\": \"https://www.thehindu.com/sci-tech/science/meteor-explodes-over-us-with-blast-in-massachusetts/article71043699.ece\", \"stance_keywords\": []}], \"summary_keywords\": [\"meteor\", \"explodes\", \"blast\", \"equivalent\", \"tonnes\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1, \"The Hindu\": 1}, \"country_distribution\": {\"Asia\": 2}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\", \"The Hindu\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-31T00:34:00.000Z",
       "event_count": 1,
-      "article_count": 2,
-      "source_count": 2,
-      "source_names": "The Hindu / Straits Times"
+      "article_count": 3,
+      "source_count": 3,
+      "source_names": "The Hindu / DW / Straits Times"
     },
     {
       "id": "cec5522f-e186-43d7-94ad-6673d8481c94",
@@ -182,8 +325,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"14d11c6f-04d7-4ce2-b11e-e5112edc349a\", \"story_title\": \"The AV2 Video Standard Has Released (Final v1.0 Specification)\", \"events\": [{\"event_id\": \"e5a65ecf-b830-41f2-abe6-07ed09fa6553\", \"event_title\": \"The AV2 Video Standard Has Released (Final v1.0 Specification)\", \"time_slices\": [{\"timestamp\": \"2026-05-30T21:46:18.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Hacker News\", \"title\": \"The AV2 Video Standard Has Released (Final v1.0 Specification)\", \"url\": \"https://av2.aomedia.org\", \"stance_keywords\": []}], \"summary_keywords\": [\"video\", \"standard\", \"released\", \"final\", \"specification\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Hacker News\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Hacker News\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-30T21:46:18.000Z",
-      "event_count": 1,
-      "article_count": 1,
+      "event_count": 2,
+      "article_count": 2,
       "source_count": 1,
       "source_names": "Hacker News"
     },
@@ -304,9 +447,9 @@
       "structured_data": "{\"story_id\": \"3ba05eaf-c383-4b3d-bb90-69c714a3da9e\", \"story_title\": \"Children of Syrian dentist disappeared under Bashar al-Assad likely dead, says commission\", \"events\": [{\"event_id\": \"963a02bc-0d20-4465-b7c5-b44526f64191\", \"event_title\": \"Children of Syrian dentist disappeared under Bashar al-Assad likely dead, says commission\", \"time_slices\": [{\"timestamp\": \"2026-05-30T17:17:25.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Children of Syrian dentist disappeared under Bashar al-Assad likely dead, says commission\", \"url\": \"https://www.straitstimes.com/world/middle-east/children-of-syrian-dentist-disappeared-under-assad-likely-dead-says-commission\", \"stance_keywords\": []}], \"summary_keywords\": [\"children\", \"syrian\", \"dentist\", \"disappeared\", \"under\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-30T17:17:25.000Z",
       "event_count": 1,
-      "article_count": 1,
-      "source_count": 1,
-      "source_names": "Straits Times"
+      "article_count": 2,
+      "source_count": 2,
+      "source_names": "Straits Times / Al Jazeera"
     },
     {
       "id": "c48cd57f-c106-444e-9ccc-47a20fb54851",
@@ -546,7 +689,7 @@
       "structured_data": "{\"story_id\": \"afd1a8fe-3cb6-4368-b664-324906685571\", \"story_title\": \"Damage seen in northern Israel after Hezbollah launches rocket barrages\", \"events\": [{\"event_id\": \"2ddd87da-19cc-47d1-aafb-6d996142ac1e\", \"event_title\": \"Damage seen in northern Israel after Hezbollah launches rocket barrages\", \"time_slices\": [{\"timestamp\": \"2026-05-30T10:13:16.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Al Jazeera\", \"title\": \"Damage seen in northern Israel after Hezbollah launches rocket barrages\", \"url\": \"https://www.aljazeera.com/video/newsfeed/2026/5/30/damage-seen-in-northern-israel-after-hezbollah-launches-rocket-barrages?traffic_source=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"damage\", \"seen\", \"northern\", \"israel\", \"hezbollah\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Al Jazeera\": 1}, \"country_distribution\": {\"Middle East\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Al Jazeera\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-30T10:13:16.000Z",
       "event_count": 1,
-      "article_count": 1,
+      "article_count": 2,
       "source_count": 1,
       "source_names": "Al Jazeera"
     },
@@ -831,8 +974,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"fb520938-8ad8-4216-bedf-85f086642cab\", \"story_title\": \"US says it struck vessel in eastern Pacific, killing three men\", \"events\": [{\"event_id\": \"d3bba01b-e135-47fc-afa7-19786014048e\", \"event_title\": \"US says it struck vessel in eastern Pacific, killing three men\", \"time_slices\": [{\"timestamp\": \"2026-05-30T00:49:40.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"US says it struck vessel in eastern Pacific, killing three men\", \"url\": \"https://www.straitstimes.com/world/us-says-it-struck-vessel-in-eastern-pacific-killing-three-men\", \"stance_keywords\": []}, {\"source\": \"The Hindu\", \"title\": \"U.S. says it struck vessel in eastern Pacific, killing three men\", \"url\": \"https://www.thehindu.com/news/international/us-says-it-struck-vessel-in-eastern-pacific-killing-three-men/article71040074.ece\", \"stance_keywords\": []}], \"summary_keywords\": [\"struck\", \"vessel\", \"eastern\", \"pacific\", \"killing\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1, \"The Hindu\": 1}, \"country_distribution\": {\"Asia\": 2}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\", \"The Hindu\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-30T00:49:40.000Z",
-      "event_count": 1,
-      "article_count": 2,
+      "event_count": 2,
+      "article_count": 3,
       "source_count": 2,
       "source_names": "Straits Times / The Hindu"
     },
@@ -2789,8 +2932,8 @@
       "topic": "War",
       "structured_data": "{\"story_id\": \"241adcc8-0426-4ac9-9c5b-26431cbab50f\", \"story_title\": \"Rome Pride bars Jewish LGBT group from parade over Gaza stance\", \"events\": [{\"event_id\": \"7085b0ed-31b7-4aae-b6c8-421dc8ea9ebd\", \"event_title\": \"Rome Pride bars Jewish LGBT group from parade over Gaza stance\", \"time_slices\": [{\"timestamp\": \"2026-05-28T12:24:30.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Rome Pride bars Jewish LGBT group from parade over Gaza stance\", \"url\": \"https://www.straitstimes.com/world/europe/rome-pride-bars-jewish-lgbt-group-from-parade-over-gaza-stance\", \"stance_keywords\": []}], \"summary_keywords\": [\"rome\", \"pride\", \"bars\", \"jewish\", \"lgbt\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-28T12:24:30.000Z",
-      "event_count": 1,
-      "article_count": 1,
+      "event_count": 2,
+      "article_count": 2,
       "source_count": 1,
       "source_names": "Straits Times"
     },
@@ -6540,10 +6683,10 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"98fea3f7-b29a-4edd-99c2-943dff698292\", \"story_title\": \"Are systemic safety failures to blame for China\\u2019s deadly mine blast?\", \"events\": [{\"event_id\": \"8b02ed62-aea6-4a1c-8b43-a7defe9e8c6a\", \"event_title\": \"Are systemic safety failures to blame for China\\u2019s deadly mine blast?\", \"time_slices\": [{\"timestamp\": \"2026-05-25T11:32:20.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"Are systemic safety failures to blame for China\\u2019s deadly mine blast?\", \"url\": \"https://www.scmp.com/news/china/politics/article/3354784/are-systemic-safety-failures-blame-chinas-deadly-mine-blast?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"systemic\", \"safety\", \"failures\", \"blame\", \"china\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"SCMP\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-25T11:32:20.000Z",
-      "event_count": 1,
-      "article_count": 1,
-      "source_count": 1,
-      "source_names": "SCMP"
+      "event_count": 2,
+      "article_count": 2,
+      "source_count": 2,
+      "source_names": "SCMP / Bloomberg"
     },
     {
       "id": "b1c668ae-1760-40a7-8cab-9ecd98f4ad1e",
@@ -6656,17 +6799,6 @@
       "source_names": "NYT"
     },
     {
-      "id": "f8016799-a353-4f76-9354-b59c88067df5",
-      "title": "Nigeria: NCAA Suspends 'No-Pay, No-Service' Directive Against Airlines Over Outstanding Charges",
-      "topic": "Other",
-      "structured_data": "{\"story_id\": \"f8016799-a353-4f76-9354-b59c88067df5\", \"story_title\": \"Nigeria: NCAA Suspends 'No-Pay, No-Service' Directive Against Airlines Over Outstanding Charges\", \"events\": [{\"event_id\": \"f9e03e28-6fda-4008-82f5-6363a03da192\", \"event_title\": \"Nigeria: NCAA Suspends 'No-Pay, No-Service' Directive Against Airlines Over Outstanding Charges\", \"time_slices\": [{\"timestamp\": \"2026-05-25T08:32:37.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"AllAfrica\", \"title\": \"Nigeria: NCAA Suspends 'No-Pay, No-Service' Directive Against Airlines Over Outstanding Charges\", \"url\": \"https://allafrica.com/stories/202605250127.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"nigeria\", \"ncaa\", \"suspends\", \"service\", \"directive\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"AllAfrica\": 1}, \"country_distribution\": {\"Africa\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"AllAfrica\"]}, \"timeline_summary\": [], \"contradictions\": []}",
-      "created_at": "2026-05-25T08:32:37.000Z",
-      "event_count": 1,
-      "article_count": 1,
-      "source_count": 1,
-      "source_names": "AllAfrica"
-    },
-    {
       "id": "7448a444-cd6b-4ece-8c90-e658b87bcf6c",
       "title": "Uganda: MPs Meet to Elect Speaker, Deputy Speaker",
       "topic": "Other",
@@ -6674,6 +6806,17 @@
       "created_at": "2026-05-25T08:32:37.000Z",
       "event_count": 3,
       "article_count": 4,
+      "source_count": 1,
+      "source_names": "AllAfrica"
+    },
+    {
+      "id": "f8016799-a353-4f76-9354-b59c88067df5",
+      "title": "Nigeria: NCAA Suspends 'No-Pay, No-Service' Directive Against Airlines Over Outstanding Charges",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"f8016799-a353-4f76-9354-b59c88067df5\", \"story_title\": \"Nigeria: NCAA Suspends 'No-Pay, No-Service' Directive Against Airlines Over Outstanding Charges\", \"events\": [{\"event_id\": \"f9e03e28-6fda-4008-82f5-6363a03da192\", \"event_title\": \"Nigeria: NCAA Suspends 'No-Pay, No-Service' Directive Against Airlines Over Outstanding Charges\", \"time_slices\": [{\"timestamp\": \"2026-05-25T08:32:37.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"AllAfrica\", \"title\": \"Nigeria: NCAA Suspends 'No-Pay, No-Service' Directive Against Airlines Over Outstanding Charges\", \"url\": \"https://allafrica.com/stories/202605250127.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"nigeria\", \"ncaa\", \"suspends\", \"service\", \"directive\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"AllAfrica\": 1}, \"country_distribution\": {\"Africa\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"AllAfrica\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-25T08:32:37.000Z",
+      "event_count": 1,
+      "article_count": 1,
       "source_count": 1,
       "source_names": "AllAfrica"
     },
@@ -7129,17 +7272,6 @@
       "source_names": "BBC"
     },
     {
-      "id": "d1568f68-57ad-4ef8-993f-051f4e403e94",
-      "title": "Japan Regulator Urges Firms to Use Cash for Growth, Not Returns",
-      "topic": "Other",
-      "structured_data": "{\"story_id\": \"d1568f68-57ad-4ef8-993f-051f4e403e94\", \"story_title\": \"Japan Regulator Urges Firms to Use Cash for Growth, Not Returns\", \"events\": [{\"event_id\": \"2281d646-e812-41c7-9862-3f24a65e7263\", \"event_title\": \"Japan Regulator Urges Firms to Use Cash for Growth, Not Returns\", \"time_slices\": [{\"timestamp\": \"2026-05-24T21:00:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"Japan Regulator Urges Firms to Use Cash for Growth, Not Returns\", \"url\": \"https://www.bloomberg.com/news/articles/2026-05-24/japan-regulator-urges-firms-to-use-cash-for-growth-not-returns\", \"stance_keywords\": []}], \"summary_keywords\": [\"japan\", \"regulator\", \"urges\", \"firms\", \"cash\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
-      "created_at": "2026-05-24T21:00:00.000Z",
-      "event_count": 1,
-      "article_count": 1,
-      "source_count": 1,
-      "source_names": "Bloomberg"
-    },
-    {
       "id": "c813ae9b-1007-42f7-abb1-d20a0a4b45ff",
       "title": "A university project that became Finland\u2019s crown jewel in pioneering space technology",
       "topic": "Other",
@@ -7149,6 +7281,17 @@
       "article_count": 1,
       "source_count": 1,
       "source_names": "Straits Times"
+    },
+    {
+      "id": "d1568f68-57ad-4ef8-993f-051f4e403e94",
+      "title": "Japan Regulator Urges Firms to Use Cash for Growth, Not Returns",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"d1568f68-57ad-4ef8-993f-051f4e403e94\", \"story_title\": \"Japan Regulator Urges Firms to Use Cash for Growth, Not Returns\", \"events\": [{\"event_id\": \"2281d646-e812-41c7-9862-3f24a65e7263\", \"event_title\": \"Japan Regulator Urges Firms to Use Cash for Growth, Not Returns\", \"time_slices\": [{\"timestamp\": \"2026-05-24T21:00:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"Japan Regulator Urges Firms to Use Cash for Growth, Not Returns\", \"url\": \"https://www.bloomberg.com/news/articles/2026-05-24/japan-regulator-urges-firms-to-use-cash-for-growth-not-returns\", \"stance_keywords\": []}], \"summary_keywords\": [\"japan\", \"regulator\", \"urges\", \"firms\", \"cash\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-24T21:00:00.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "Bloomberg"
     },
     {
       "id": "3d53639a-3347-452d-b506-bc43b1ddce9c",
@@ -7255,8 +7398,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"922c6b0b-f41d-4fdd-899a-fa637d11cd26\", \"story_title\": \"China\\u2019s Shenzhou-23 astronauts blast off on space station mission\", \"events\": [{\"event_id\": \"a84ad5c5-0b40-48f8-a650-e508ed2458c1\", \"event_title\": \"China\\u2019s Shenzhou-23 astronauts blast off on space station mission\", \"time_slices\": [{\"timestamp\": \"2026-05-24T15:08:13.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"Cheers, pride as Hong Kong\\u2019s first astronaut heads off on mission\", \"url\": \"https://www.scmp.com/news/hong-kong/society/article/3354696/hongkongers-praise-astronaut-lai-ka-ying-send-ceremony-jiuquan?utm_source=rss_feed\", \"stance_keywords\": [\"cheers\", \"pride\", \"hong\"]}, {\"source\": \"SCMP\", \"title\": \"Hong Kong\\u2019s first astronaut Lai Ka-ying lifts off into space on Shenzhou-23 mission\", \"url\": \"https://www.scmp.com/news/china/science/article/3354697/hong-kongs-first-astronaut-lai-ka-ying-lifts-space-shenzhou-23-mission?utm_source=rss_feed\", \"stance_keywords\": [\"hong\", \"kong\", \"first\"]}, {\"source\": \"Al Jazeera\", \"title\": \"China\\u2019s Shenzhou-23 astronauts blast off on space station mission\", \"url\": \"https://www.aljazeera.com/video/newsfeed/2026/5/24/chinas-shenzhou-23-astronauts-blast-off-on-space-station-mission?traffic_source=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"mission\", \"hong\", \"kong\", \"first\", \"astronaut\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"SCMP\": 2, \"Al Jazeera\": 1}, \"country_distribution\": {\"Asia\": 2, \"Middle East\": 1}, \"spread_type\": \"REGIONAL\"}, \"interest\": {\"coverage_bias\": \"Heavily driven by SCMP\", \"dominant_sources\": [\"SCMP\", \"Al Jazeera\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-24T16:26:09.000Z",
-      "event_count": 2,
-      "article_count": 7,
+      "event_count": 3,
+      "article_count": 8,
       "source_count": 4,
       "source_names": "SCMP / Al Jazeera / RT / BBC"
     },
@@ -7563,8 +7706,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"a5c934fd-6d45-4700-a25f-3030dfc0b203\", \"story_title\": \"\\u7af6\\u99ac\\u300c\\u30aa\\u30fc\\u30af\\u30b9\\u300d \\u4eca\\u6751\\u8056\\u5948\\u9a0e\\u624b\\u304c\\u65e5\\u672c\\u4eba\\u306e\\u5973\\u6027\\u9a0e\\u624b\\u521d\\u306eG1\\u5236\\u8987\", \"events\": [{\"event_id\": \"68b33cd2-68df-405d-9985-1885cd273938\", \"event_title\": \"\\u7af6\\u99ac\\u300c\\u30aa\\u30fc\\u30af\\u30b9\\u300d \\u4eca\\u6751\\u8056\\u5948\\u9a0e\\u624b\\u304c\\u65e5\\u672c\\u4eba\\u306e\\u5973\\u6027\\u9a0e\\u624b\\u521d\\u306eG1\\u5236\\u8987\", \"time_slices\": [{\"timestamp\": \"2026-05-24T08:03:53.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NHK\", \"title\": \"\\u7af6\\u99ac\\u300c\\u30aa\\u30fc\\u30af\\u30b9\\u300d \\u4eca\\u6751\\u8056\\u5948\\u9a0e\\u624b\\u304c\\u65e5\\u672c\\u4eba\\u306e\\u5973\\u6027\\u9a0e\\u624b\\u521d\\u306eG1\\u5236\\u8987\", \"url\": \"https://news.web.nhk/newsweb/na/na-k10015130211000\", \"stance_keywords\": []}], \"summary_keywords\": []}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"NHK\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"NHK\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-24T08:03:53.000Z",
-      "event_count": 1,
-      "article_count": 1,
+      "event_count": 2,
+      "article_count": 2,
       "source_count": 1,
       "source_names": "NHK"
     },
@@ -8256,8 +8399,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"959b39cb-fdd7-457a-b7b4-3c5d68931cb6\", \"story_title\": \"\\u2018A Total Nightmare\\u2019: Voices From a Moscow Hit by Ukrainian Drones\", \"events\": [{\"event_id\": \"3d9e88d3-a871-4a09-8e4c-dfb8a79daafe\", \"event_title\": \"\\u2018A Total Nightmare\\u2019: Voices From a Moscow Hit by Ukrainian Drones\", \"time_slices\": [{\"timestamp\": \"2026-05-23T09:01:44.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NYT\", \"title\": \"\\u2018A Total Nightmare\\u2019: Voices From a Moscow Hit by Ukrainian Drones\", \"url\": \"https://www.nytimes.com/2026/05/23/world/europe/moscow-drone-attacks-ukraine.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"total\", \"nightmare\", \"voices\", \"moscow\", \"ukrainian\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"NYT\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"NYT\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-23T09:01:44.000Z",
-      "event_count": 5,
-      "article_count": 5,
+      "event_count": 6,
+      "article_count": 6,
       "source_count": 4,
       "source_names": "Straits Times / Al Jazeera / NYT / The Hindu"
     },
@@ -10214,10 +10357,10 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"daa3ce0c-16e9-44ec-adeb-8f890e152e72\", \"story_title\": \"Rhode Fuels Elf Surge\", \"events\": [{\"event_id\": \"325f79b4-76df-4333-ba57-d59648ca1945\", \"event_title\": \"Rhode Fuels Elf Surge\", \"time_slices\": [{\"timestamp\": \"2026-05-21T15:34:29.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"Rhode Fuels Elf Surge\", \"url\": \"https://www.bloomberg.com/news/videos/2026-05-21/rhode-fuels-elf-surge-video\", \"stance_keywords\": []}], \"summary_keywords\": [\"rhode\", \"fuels\", \"surge\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-21T15:34:29.000Z",
-      "event_count": 2,
-      "article_count": 2,
-      "source_count": 2,
-      "source_names": "Hacker News / Bloomberg"
+      "event_count": 3,
+      "article_count": 3,
+      "source_count": 3,
+      "source_names": "Hacker News / Bloomberg / Al Jazeera"
     },
     {
       "id": "bd2cc4ec-d070-49d8-bcfb-4f885379711e",
@@ -11678,9 +11821,9 @@
       "structured_data": "{\"story_id\": \"d9182e73-f0c6-43b6-a12f-c12938d2ff38\", \"story_title\": \"Colombia's ELN rebels call three-day ceasefire for presidential election\", \"events\": [{\"event_id\": \"d6641404-e346-403b-872e-7cdb8009ff8d\", \"event_title\": \"Colombia's ELN rebels call three-day ceasefire for presidential election\", \"time_slices\": [{\"timestamp\": \"2026-05-20T13:49:18.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Colombia's ELN rebels call three-day ceasefire for presidential election\", \"url\": \"https://www.straitstimes.com/world/colombias-eln-rebels-call-three-day-ceasefire-for-presidential-election\", \"stance_keywords\": []}], \"summary_keywords\": [\"colombia\", \"rebels\", \"call\", \"three\", \"ceasefire\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-20T13:49:18.000Z",
       "event_count": 3,
-      "article_count": 3,
-      "source_count": 3,
-      "source_names": "Straits Times / Al Jazeera / DW"
+      "article_count": 4,
+      "source_count": 4,
+      "source_names": "Straits Times / Al Jazeera / BBC / DW"
     },
     {
       "id": "baaf9c33-0fe3-4d86-8526-83167fb9c551",
@@ -13140,8 +13283,8 @@
       "topic": "Economy",
       "structured_data": "{\"story_id\": \"ac7a0694-ff26-41f2-8ee3-7506ac2b6845\", \"story_title\": \"Senegal Arrears to Arab Development Bank Highlight Debt Woes\", \"events\": [{\"event_id\": \"538da531-0464-47f6-be92-5b509087636a\", \"event_title\": \"Senegal Arrears to Arab Development Bank Highlight Debt Woes\", \"time_slices\": [{\"timestamp\": \"2026-05-19T11:58:32.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"Senegal Arrears to Arab Development Bank Highlight Debt Woes\", \"url\": \"https://www.bloomberg.com/news/articles/2026-05-19/senegal-in-arrears-with-arab-development-bank-as-debt-woes-grow\", \"stance_keywords\": []}], \"summary_keywords\": [\"senegal\", \"arrears\", \"arab\", \"development\", \"bank\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-19T11:58:32.000Z",
-      "event_count": 2,
-      "article_count": 2,
+      "event_count": 3,
+      "article_count": 3,
       "source_count": 2,
       "source_names": "Bloomberg / SCMP"
     },
@@ -14394,8 +14537,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"299ad036-0ea1-4842-b0cc-73059f041104\", \"story_title\": \"What is Ebola and why is stopping this outbreak so difficult?\", \"events\": [{\"event_id\": \"cd1b5d0f-98e1-4c8e-9ed3-5e1094e8a76a\", \"event_title\": \"What is Ebola and why is stopping this outbreak so difficult?\", \"time_slices\": [{\"timestamp\": \"2026-05-18T14:43:03.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"BBC\", \"title\": \"What is Ebola and why is stopping this outbreak so difficult?\", \"url\": \"https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"what\", \"ebola\", \"stopping\", \"outbreak\", \"difficult\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"BBC\": 1}, \"country_distribution\": {\"Europe\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"BBC\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-18T14:43:03.000Z",
-      "event_count": 23,
-      "article_count": 35,
+      "event_count": 24,
+      "article_count": 36,
       "source_count": 9,
       "source_names": "Straits Times / AllAfrica / Al Jazeera / SCMP / BBC / The Hindu / NYT / DW / Bloomberg"
     },
@@ -14889,10 +15032,10 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"808415be-341e-4bb0-bdf7-1995b8066840\", \"story_title\": \"Malaysia ends Indonesia migrant boat search, 16 bodies recovered\", \"events\": [{\"event_id\": \"875d7de3-4a08-4691-b760-9d20cb6b806f\", \"event_title\": \"Malaysia ends Indonesia migrant boat search, 16 bodies recovered\", \"time_slices\": [{\"timestamp\": \"2026-05-18T08:39:49.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"The Hindu\", \"title\": \"Malaysia ends Indonesia migrant boat search, 16 bodies recovered\", \"url\": \"https://www.thehindu.com/news/international/malaysia-ends-indonesia-migrant-boat-search-16-bodies-recovered/article70993084.ece\", \"stance_keywords\": []}], \"summary_keywords\": [\"malaysia\", \"ends\", \"indonesia\", \"migrant\", \"boat\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"The Hindu\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"The Hindu\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-18T08:39:49.000Z",
-      "event_count": 2,
-      "article_count": 2,
-      "source_count": 2,
-      "source_names": "The Hindu / AllAfrica"
+      "event_count": 3,
+      "article_count": 3,
+      "source_count": 3,
+      "source_names": "The Hindu / AllAfrica / Straits Times"
     },
     {
       "id": "abf3f1a7-1b6b-4f48-907a-8ea8ffda0665",
@@ -14928,10 +15071,10 @@
       "source_names": "The Hindu"
     },
     {
-      "id": "4b5ae48b-bd5f-49e4-862a-3022a1ef0aa7",
-      "title": "Zimbabwe: Over 70 Smuggled Vehicles Seized in Major Clampdown",
+      "id": "06ed51bb-710f-4c7d-b89d-77056bbceb9c",
+      "title": "Zimbabwe: MCAZ Applauds Police, Vigilant Members of Public in Fight Against Counterfeit and Harmful Medicines",
       "topic": "Other",
-      "structured_data": "{\"story_id\": \"4b5ae48b-bd5f-49e4-862a-3022a1ef0aa7\", \"story_title\": \"Zimbabwe: Over 70 Smuggled Vehicles Seized in Major Clampdown\", \"events\": [{\"event_id\": \"12b47908-c4f8-43f4-8c77-8a930f0a9652\", \"event_title\": \"Zimbabwe: Over 70 Smuggled Vehicles Seized in Major Clampdown\", \"time_slices\": [{\"timestamp\": \"2026-05-18T07:18:25.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"AllAfrica\", \"title\": \"Zimbabwe: Over 70 Smuggled Vehicles Seized in Major Clampdown\", \"url\": \"https://allafrica.com/stories/202605180113.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"zimbabwe\", \"smuggled\", \"vehicles\", \"seized\", \"major\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"AllAfrica\": 1}, \"country_distribution\": {\"Africa\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"AllAfrica\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "structured_data": "{\"story_id\": \"06ed51bb-710f-4c7d-b89d-77056bbceb9c\", \"story_title\": \"Zimbabwe: MCAZ Applauds Police, Vigilant Members of Public in Fight Against Counterfeit and Harmful Medicines\", \"events\": [{\"event_id\": \"29b2bb96-2a63-4c41-a286-350e3258ffeb\", \"event_title\": \"Zimbabwe: MCAZ Applauds Police, Vigilant Members of Public in Fight Against Counterfeit and Harmful Medicines\", \"time_slices\": [{\"timestamp\": \"2026-05-18T07:18:25.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"AllAfrica\", \"title\": \"Zimbabwe: MCAZ Applauds Police, Vigilant Members of Public in Fight Against Counterfeit and Harmful Medicines\", \"url\": \"https://allafrica.com/stories/202605180112.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"zimbabwe\", \"mcaz\", \"applauds\", \"police\", \"vigilant\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"AllAfrica\": 1}, \"country_distribution\": {\"Africa\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"AllAfrica\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-18T07:18:25.000Z",
       "event_count": 1,
       "article_count": 1,
@@ -14939,10 +15082,10 @@
       "source_names": "AllAfrica"
     },
     {
-      "id": "06ed51bb-710f-4c7d-b89d-77056bbceb9c",
-      "title": "Zimbabwe: MCAZ Applauds Police, Vigilant Members of Public in Fight Against Counterfeit and Harmful Medicines",
+      "id": "4b5ae48b-bd5f-49e4-862a-3022a1ef0aa7",
+      "title": "Zimbabwe: Over 70 Smuggled Vehicles Seized in Major Clampdown",
       "topic": "Other",
-      "structured_data": "{\"story_id\": \"06ed51bb-710f-4c7d-b89d-77056bbceb9c\", \"story_title\": \"Zimbabwe: MCAZ Applauds Police, Vigilant Members of Public in Fight Against Counterfeit and Harmful Medicines\", \"events\": [{\"event_id\": \"29b2bb96-2a63-4c41-a286-350e3258ffeb\", \"event_title\": \"Zimbabwe: MCAZ Applauds Police, Vigilant Members of Public in Fight Against Counterfeit and Harmful Medicines\", \"time_slices\": [{\"timestamp\": \"2026-05-18T07:18:25.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"AllAfrica\", \"title\": \"Zimbabwe: MCAZ Applauds Police, Vigilant Members of Public in Fight Against Counterfeit and Harmful Medicines\", \"url\": \"https://allafrica.com/stories/202605180112.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"zimbabwe\", \"mcaz\", \"applauds\", \"police\", \"vigilant\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"AllAfrica\": 1}, \"country_distribution\": {\"Africa\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"AllAfrica\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "structured_data": "{\"story_id\": \"4b5ae48b-bd5f-49e4-862a-3022a1ef0aa7\", \"story_title\": \"Zimbabwe: Over 70 Smuggled Vehicles Seized in Major Clampdown\", \"events\": [{\"event_id\": \"12b47908-c4f8-43f4-8c77-8a930f0a9652\", \"event_title\": \"Zimbabwe: Over 70 Smuggled Vehicles Seized in Major Clampdown\", \"time_slices\": [{\"timestamp\": \"2026-05-18T07:18:25.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"AllAfrica\", \"title\": \"Zimbabwe: Over 70 Smuggled Vehicles Seized in Major Clampdown\", \"url\": \"https://allafrica.com/stories/202605180113.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"zimbabwe\", \"smuggled\", \"vehicles\", \"seized\", \"major\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"AllAfrica\": 1}, \"country_distribution\": {\"Africa\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"AllAfrica\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-18T07:18:25.000Z",
       "event_count": 1,
       "article_count": 1,
@@ -15967,10 +16110,10 @@
       "topic": "War",
       "structured_data": "{\"story_id\": \"49b2b7fe-113e-4b54-8495-e041fa51ad26\", \"story_title\": \"Malaysia, Norway Tensions Deepen Over Scrapped Missile Deal\", \"events\": [{\"event_id\": \"a19b1be5-269a-4ab0-872f-9ebb435a00e1\", \"event_title\": \"Malaysia, Norway Tensions Deepen Over Scrapped Missile Deal\", \"time_slices\": [{\"timestamp\": \"2026-05-17T03:14:33.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"Malaysia, Norway Tensions Deepen Over Scrapped Missile Deal\", \"url\": \"https://www.bloomberg.com/news/articles/2026-05-17/malaysia-norway-tensions-deepen-over-scrapped-missile-deal\", \"stance_keywords\": []}], \"summary_keywords\": [\"malaysia\", \"norway\", \"tensions\", \"deepen\", \"scrapped\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-17T03:14:33.000Z",
-      "event_count": 7,
-      "article_count": 8,
-      "source_count": 3,
-      "source_names": "Bloomberg / SCMP / Al Jazeera"
+      "event_count": 8,
+      "article_count": 10,
+      "source_count": 4,
+      "source_names": "Bloomberg / DW / SCMP / Al Jazeera"
     },
     {
       "id": "ac5a22ac-53aa-4f59-a268-46bfb015d9dd",
@@ -16297,10 +16440,10 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"0e9979ee-056c-4080-b591-f315cb1f68f3\", \"story_title\": \"Sudanese army captures key town near Ethiopian border from RSF\", \"events\": [{\"event_id\": \"e6a08f7a-b2b0-4c31-a61b-d36f3397bce8\", \"event_title\": \"Sudanese army captures key town near Ethiopian border from RSF\", \"time_slices\": [{\"timestamp\": \"2026-05-16T16:35:50.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Al Jazeera\", \"title\": \"Sudanese army captures key town near Ethiopian border from RSF\", \"url\": \"https://www.aljazeera.com/news/2026/5/16/sudanese-army-captures-key-town-near-ethiopian-border-from-rsf?traffic_source=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"sudanese\", \"army\", \"captures\", \"town\", \"near\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"35e285ab-ab79-429c-99ca-f91db08925dd\", \"event_title\": \"Romania finds unexploded projectile in village near Ukraine border\", \"time_slices\": [{\"timestamp\": \"2026-05-16T17:08:06.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Romania finds unexploded projectile in village near Ukraine border\", \"url\": \"https://www.straitstimes.com/world/europe/romania-finds-unexploded-projectile-in-village-near-ukraine-border\", \"stance_keywords\": []}], \"summary_keywords\": [\"romania\", \"finds\", \"unexploded\", \"projectile\", \"village\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Al Jazeera\": 1, \"Straits Times\": 1}, \"country_distribution\": {\"Middle East\": 1, \"Asia\": 1}, \"spread_type\": \"REGIONAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Al Jazeera\", \"Straits Times\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-16T16:35:50.000Z",
-      "event_count": 2,
-      "article_count": 2,
-      "source_count": 2,
-      "source_names": "Al Jazeera / Straits Times"
+      "event_count": 3,
+      "article_count": 3,
+      "source_count": 3,
+      "source_names": "Al Jazeera / Straits Times / The Hindu"
     },
     {
       "id": "1ecc73a2-eb37-4621-9b3f-e9a76194edd7",
@@ -17562,8 +17705,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"b5d57471-8b90-4dbb-ac2e-4b7cdcd58530\", \"story_title\": \"High dimensional geometry is transforming the MRI industry(2017) [pdf]\", \"events\": [{\"event_id\": \"addf9775-f802-4b5a-92b5-1e3260f80aac\", \"event_title\": \"High dimensional geometry is transforming the MRI industry(2017) [pdf]\", \"time_slices\": [{\"timestamp\": \"2026-05-15T13:25:53.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Hacker News\", \"title\": \"High dimensional geometry is transforming the MRI industry(2017) [pdf]\", \"url\": \"https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf\", \"stance_keywords\": []}], \"summary_keywords\": [\"high\", \"dimensional\", \"geometry\", \"transforming\", \"industry\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Hacker News\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Hacker News\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-15T13:25:53.000Z",
-      "event_count": 1,
-      "article_count": 1,
+      "event_count": 2,
+      "article_count": 2,
       "source_count": 1,
       "source_names": "Hacker News"
     },
@@ -18750,8 +18893,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"d75afe84-51cf-404d-adb1-cadde4991c4a\", \"story_title\": \"Green Card Holders Targeted for Deportation by New 'Removal Apparatus'\", \"events\": [{\"event_id\": \"031fb6bb-48c1-4fb7-bb1f-3adcd27fc1bb\", \"event_title\": \"Green Card Holders Targeted for Deportation by New 'Removal Apparatus'\", \"time_slices\": [{\"timestamp\": \"2026-05-14T19:07:12.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Hacker News\", \"title\": \"Green Card Holders Targeted for Deportation by New 'Removal Apparatus'\", \"url\": \"https://www.nytimes.com/2026/05/14/us/politics/green-cards-immigration-deportation-trump.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"green\", \"card\", \"holders\", \"targeted\", \"deportation\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Hacker News\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Hacker News\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-14T19:07:12.000Z",
-      "event_count": 4,
-      "article_count": 6,
+      "event_count": 5,
+      "article_count": 7,
       "source_count": 5,
       "source_names": "The Hindu / DW / Hacker News / SCMP / Straits Times"
     },
@@ -19124,10 +19267,10 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"1b175c17-a322-49f7-8273-70c09e8b99b3\", \"story_title\": \"Who Owns These Artworks? Mus\\u00e9e d\\u2019Orsay Hopes Visitors Can Help Find Out.\", \"events\": [{\"event_id\": \"22feb545-89b0-4bf4-827c-7d204024d88c\", \"event_title\": \"Who Owns These Artworks? Mus\\u00e9e d\\u2019Orsay Hopes Visitors Can Help Find Out.\", \"time_slices\": [{\"timestamp\": \"2026-05-14T13:47:15.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NYT\", \"title\": \"Who Owns These Artworks? Mus\\u00e9e d\\u2019Orsay Hopes Visitors Can Help Find Out.\", \"url\": \"https://www.nytimes.com/2026/05/14/arts/design/musee-dorsay-art-world-war-ii.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"owns\", \"these\", \"artworks\", \"orsay\", \"hopes\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"NYT\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"NYT\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-14T13:47:15.000Z",
-      "event_count": 1,
-      "article_count": 1,
-      "source_count": 1,
-      "source_names": "NYT"
+      "event_count": 2,
+      "article_count": 2,
+      "source_count": 2,
+      "source_names": "Hacker News / NYT"
     },
     {
       "id": "9b488ea7-b807-4404-88c2-440313418fb4",
@@ -20571,17 +20714,6 @@
       "source_names": "BBC / AllAfrica"
     },
     {
-      "id": "6cfa90a2-e514-4596-8c1e-1f723327195f",
-      "title": "Dutch suicide prevention website shares data with tech companies without consent",
-      "topic": "Tech",
-      "structured_data": "{\"story_id\": \"6cfa90a2-e514-4596-8c1e-1f723327195f\", \"story_title\": \"Dutch suicide prevention website shares data with tech companies without consent\", \"events\": [{\"event_id\": \"a750b4ad-b6cc-4eea-88cb-dd259ef03f73\", \"event_title\": \"Dutch suicide prevention website shares data with tech companies without consent\", \"time_slices\": [{\"timestamp\": \"2026-05-13T12:57:42.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Hacker News\", \"title\": \"Dutch suicide prevention website shares data with tech companies without consent\", \"url\": \"https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies\", \"stance_keywords\": []}], \"summary_keywords\": [\"dutch\", \"suicide\", \"prevention\", \"website\", \"shares\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Hacker News\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Hacker News\"]}, \"timeline_summary\": [], \"contradictions\": []}",
-      "created_at": "2026-05-13T12:57:42.000Z",
-      "event_count": 1,
-      "article_count": 1,
-      "source_count": 1,
-      "source_names": "Hacker News"
-    },
-    {
       "id": "23300017-7548-47d1-a28f-7e88910af2eb",
       "title": "Bharti to Raise Airtel Africa Stake in $2.9 Billion Stock Swap",
       "topic": "Other",
@@ -20591,6 +20723,17 @@
       "article_count": 1,
       "source_count": 1,
       "source_names": "Bloomberg"
+    },
+    {
+      "id": "6cfa90a2-e514-4596-8c1e-1f723327195f",
+      "title": "Dutch suicide prevention website shares data with tech companies without consent",
+      "topic": "Tech",
+      "structured_data": "{\"story_id\": \"6cfa90a2-e514-4596-8c1e-1f723327195f\", \"story_title\": \"Dutch suicide prevention website shares data with tech companies without consent\", \"events\": [{\"event_id\": \"a750b4ad-b6cc-4eea-88cb-dd259ef03f73\", \"event_title\": \"Dutch suicide prevention website shares data with tech companies without consent\", \"time_slices\": [{\"timestamp\": \"2026-05-13T12:57:42.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Hacker News\", \"title\": \"Dutch suicide prevention website shares data with tech companies without consent\", \"url\": \"https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies\", \"stance_keywords\": []}], \"summary_keywords\": [\"dutch\", \"suicide\", \"prevention\", \"website\", \"shares\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Hacker News\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Hacker News\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-13T12:57:42.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "Hacker News"
     },
     {
       "id": "385afb63-4135-4073-862e-d3836b7e037e",
@@ -20752,8 +20895,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"f88b3fda-c5b4-4157-b16d-66e4593fcae2\", \"story_title\": \"Shrinking Milka chocolate bar tricked consumers, says German court\", \"events\": [{\"event_id\": \"ff27585e-c295-44c9-afb7-ef750328159f\", \"event_title\": \"Shrinking Milka chocolate bar tricked consumers, says German court\", \"time_slices\": [{\"timestamp\": \"2026-05-13T11:29:53.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"BBC\", \"title\": \"Shrinking Milka chocolate bar tricked consumers, says German court\", \"url\": \"https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"shrinking\", \"milka\", \"chocolate\", \"tricked\", \"consumers\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"fdcc90a1-7642-450f-b7db-8f666cd3d120\", \"event_title\": \"Consumers Still Face Months of Pain, Piegza Says\", \"time_slices\": [{\"timestamp\": \"2026-05-13T13:35:20.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"Consumers Still Face Months of Pain, Piegza Says\", \"url\": \"https://www.bloomberg.com/news/videos/2026-05-13/consumers-still-face-months-of-pain-piegza-says-video\", \"stance_keywords\": []}], \"summary_keywords\": [\"consumers\", \"still\", \"face\", \"months\", \"pain\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"BBC\": 1, \"Bloomberg\": 1}, \"country_distribution\": {\"Europe\": 1, \"US\": 1}, \"spread_type\": \"REGIONAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"BBC\", \"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-13T11:29:53.000Z",
-      "event_count": 2,
-      "article_count": 2,
+      "event_count": 3,
+      "article_count": 3,
       "source_count": 2,
       "source_names": "BBC / Bloomberg"
     },
@@ -20884,8 +21027,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"8e00f832-3d37-4981-a960-9d7990463ef3\", \"story_title\": \"Cem \\u00d6zdemir, first German state premier with Turkish roots\", \"events\": [{\"event_id\": \"c47ecc49-46e3-485a-a557-2f8ce477f087\", \"event_title\": \"Cem \\u00d6zdemir, first German state premier with Turkish roots\", \"time_slices\": [{\"timestamp\": \"2026-05-13T10:20:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"Cem \\u00d6zdemir, first German state premier with Turkish roots\", \"url\": \"https://www.dw.com/en/cem-\\u00f6zdemir-first-german-state-premier-with-turkish-roots/a-76252684?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"first\", \"german\", \"state\", \"premier\", \"turkish\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"DW\": 1}, \"country_distribution\": {\"Europe\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"DW\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-13T10:20:00.000Z",
-      "event_count": 1,
-      "article_count": 1,
+      "event_count": 2,
+      "article_count": 2,
       "source_count": 1,
       "source_names": "DW"
     },
@@ -25141,10 +25284,10 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"6602e07d-5a21-4035-a786-f4fc697c139f\", \"story_title\": \"Number of small boat migrants to UK tops 200,000\", \"events\": [{\"event_id\": \"4e22ebfc-3650-4721-ba68-bec7080d9d6f\", \"event_title\": \"Number of small boat migrants to UK tops 200,000\", \"time_slices\": [{\"timestamp\": \"2026-05-10T10:35:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Number of small boat migrants to UK tops 200,000\", \"url\": \"https://www.straitstimes.com/world/europe/number-of-small-boat-migrants-to-uk-tops-200000-official-figures\", \"stance_keywords\": []}], \"summary_keywords\": [\"number\", \"small\", \"boat\", \"migrants\", \"tops\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-10T10:35:00.000Z",
-      "event_count": 2,
-      "article_count": 2,
-      "source_count": 2,
-      "source_names": "Straits Times / Bloomberg"
+      "event_count": 3,
+      "article_count": 3,
+      "source_count": 3,
+      "source_names": "Straits Times / Bloomberg / NYT"
     },
     {
       "id": "d9fd84e6-3a6a-41d3-8633-4760ad577375",
@@ -25240,8 +25383,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"8f587b85-8c57-4efa-b476-5fa7e5d92734\", \"story_title\": \"\\u6771\\u4eac\\u516d\\u5927\\u5b66\\u91ce\\u7403 \\u6771\\u5927\\u304c9\\u5e74\\u3076\\u308a\\u306e\\u52dd\\u3061\\u70b9 \\u6cd5\\u653f\\u5927\\u306b2\\u9023\\u52dd\", \"events\": [{\"event_id\": \"27ad73b8-18e5-481f-ae12-077245a03271\", \"event_title\": \"\\u6771\\u4eac\\u516d\\u5927\\u5b66\\u91ce\\u7403 \\u6771\\u5927\\u304c9\\u5e74\\u3076\\u308a\\u306e\\u52dd\\u3061\\u70b9 \\u6cd5\\u653f\\u5927\\u306b2\\u9023\\u52dd\", \"time_slices\": [{\"timestamp\": \"2026-05-10T08:06:08.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NHK\", \"title\": \"\\u6771\\u4eac\\u516d\\u5927\\u5b66\\u91ce\\u7403 \\u6771\\u5927\\u304c9\\u5e74\\u3076\\u308a\\u306e\\u52dd\\u3061\\u70b9 \\u6cd5\\u653f\\u5927\\u306b2\\u9023\\u52dd\", \"url\": \"https://news.web.nhk/newsweb/na/na-k10015117821000\", \"stance_keywords\": []}], \"summary_keywords\": []}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"NHK\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"NHK\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-10T08:06:08.000Z",
-      "event_count": 1,
-      "article_count": 1,
+      "event_count": 2,
+      "article_count": 2,
       "source_count": 1,
       "source_names": "NHK"
     },
@@ -32522,8 +32665,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"74144460-395f-4c87-9078-da3549e27243\", \"story_title\": \"Leo Pharma Eyes $800 Million Deal Push as IPO Plans Advance\", \"events\": [{\"event_id\": \"6eb15414-e118-47d2-a0db-20df799a69b1\", \"event_title\": \"Leo Pharma Eyes $800 Million Deal Push as IPO Plans Advance\", \"time_slices\": [{\"timestamp\": \"2026-05-05T07:00:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"Leo Pharma Eyes $800 Million Deal Push as IPO Plans Advance\", \"url\": \"https://www.bloomberg.com/news/articles/2026-05-05/leo-pharma-eyes-800-million-deal-push-as-ipo-plans-advance\", \"stance_keywords\": []}], \"summary_keywords\": [\"pharma\", \"eyes\", \"million\", \"deal\", \"push\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-05T07:00:00.000Z",
-      "event_count": 3,
-      "article_count": 3,
+      "event_count": 4,
+      "article_count": 4,
       "source_count": 2,
       "source_names": "SCMP / Bloomberg"
     },
@@ -34029,8 +34172,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"868bebe3-3440-4c93-9635-a01c002b75d6\", \"story_title\": \"What\\u2019s behind the KMT\\u2019s internal splits over Taiwanese defence spending?\", \"events\": [{\"event_id\": \"a9598767-6aea-4968-833d-20de1ec981f2\", \"event_title\": \"What\\u2019s behind the KMT\\u2019s internal splits over Taiwanese defence spending?\", \"time_slices\": [{\"timestamp\": \"2026-05-04T12:00:08.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"What\\u2019s behind the KMT\\u2019s internal splits over Taiwanese defence spending?\", \"url\": \"https://www.scmp.com/news/china/politics/article/3352385/whats-behind-kmts-internal-splits-over-taiwanese-defence-spending?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"what\", \"behind\", \"internal\", \"splits\", \"taiwanese\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"SCMP\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-04T12:00:08.000Z",
-      "event_count": 5,
-      "article_count": 7,
+      "event_count": 6,
+      "article_count": 8,
       "source_count": 4,
       "source_names": "SCMP / Straits Times / Al Jazeera / The Hindu"
     },
@@ -34876,10 +35019,10 @@
       "topic": "Politics",
       "structured_data": "{\"story_id\": \"4c525a8d-a32c-40c0-8734-a360980dde1a\", \"story_title\": \"Poland has not received signals suggesting delays in Patriot deliveries, says defence minister\", \"events\": [{\"event_id\": \"627261be-03b3-458b-97c6-a1671559dc97\", \"event_title\": \"Poland has not received signals suggesting delays in Patriot deliveries, says defence minister\", \"time_slices\": [{\"timestamp\": \"2026-05-03T20:14:24.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Poland has not received signals suggesting delays in Patriot deliveries, says defence minister\", \"url\": \"https://www.straitstimes.com/world/europe/poland-has-not-received-signals-suggesting-delays-in-patriot-deliveries-says-defence-minister\", \"stance_keywords\": []}], \"summary_keywords\": [\"poland\", \"received\", \"signals\", \"suggesting\", \"delays\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-03T20:14:24.000Z",
-      "event_count": 6,
-      "article_count": 10,
-      "source_count": 6,
-      "source_names": "BBC / RT / The Hindu / Straits Times / Al Jazeera / AllAfrica"
+      "event_count": 7,
+      "article_count": 12,
+      "source_count": 7,
+      "source_names": "BBC / RT / The Hindu / Straits Times / Al Jazeera / AllAfrica / SCMP"
     },
     {
       "id": "416752e1-d2c1-48fd-9a23-92ffa28799db",
@@ -36240,8 +36383,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"05683bc9-9de9-4776-916f-8cf262675c36\", \"story_title\": \"Kenya flood death toll hits 10 as dam overflow risk raises alarm\", \"events\": [{\"event_id\": \"45543649-bd1c-45eb-9972-db85d86e0ff9\", \"event_title\": \"Kenya flood death toll hits 10 as dam overflow risk raises alarm\", \"time_slices\": [{\"timestamp\": \"2026-05-02T09:03:54.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Kenya flood death toll hits 10 as dam overflow risk raises alarm\", \"url\": \"https://www.straitstimes.com/world/kenya-flood-death-toll-hits-10-as-dam-overflow-risk-raises-alarm\", \"stance_keywords\": []}], \"summary_keywords\": [\"kenya\", \"flood\", \"death\", \"toll\", \"hits\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-02T09:03:54.000Z",
-      "event_count": 11,
-      "article_count": 14,
+      "event_count": 12,
+      "article_count": 15,
       "source_count": 5,
       "source_names": "Straits Times / Al Jazeera / AllAfrica / BBC / The Hindu"
     },
@@ -36614,8 +36757,8 @@
       "topic": "Tech",
       "structured_data": "{\"story_id\": \"7c8f918d-d336-4b93-a918-7bf09a7ac492\", \"story_title\": \"Job Postings for Software Engineers Are Rapidly Rising\", \"events\": [{\"event_id\": \"5deae766-610a-418f-b890-f794f5e82abb\", \"event_title\": \"Job Postings for Software Engineers Are Rapidly Rising\", \"time_slices\": [{\"timestamp\": \"2026-05-02T01:46:24.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Hacker News\", \"title\": \"Job Postings for Software Engineers Are Rapidly Rising\", \"url\": \"https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/\", \"stance_keywords\": []}], \"summary_keywords\": [\"postings\", \"software\", \"engineers\", \"rapidly\", \"rising\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Hacker News\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Hacker News\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-02T01:46:24.000Z",
-      "event_count": 4,
-      "article_count": 4,
+      "event_count": 5,
+      "article_count": 5,
       "source_count": 2,
       "source_names": "Hacker News / SCMP"
     },
@@ -37659,10 +37802,10 @@
       "topic": "War",
       "structured_data": "{\"story_id\": \"e81fd13c-5139-4db0-ba5d-315e9b10ecb9\", \"story_title\": \"Iran war expands press crackdown, leaving information vacuum\", \"events\": [{\"event_id\": \"bdf9c5b5-2547-4f99-980d-4990fe54d1c0\", \"event_title\": \"Iran war expands press crackdown, leaving information vacuum\", \"time_slices\": [{\"timestamp\": \"2026-05-01T10:40:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"Iran war expands press crackdown, leaving information vacuum\", \"url\": \"https://www.dw.com/en/iran-war-expands-press-crackdown-leaving-information-vacuum/a-77008882?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"iran\", \"expands\", \"press\", \"crackdown\", \"leaving\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"DW\": 1}, \"country_distribution\": {\"Europe\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"DW\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-05-01T10:40:00.000Z",
-      "event_count": 1,
-      "article_count": 1,
-      "source_count": 1,
-      "source_names": "DW"
+      "event_count": 2,
+      "article_count": 3,
+      "source_count": 2,
+      "source_names": "DW / Al Jazeera"
     },
     {
       "id": "f7385ea7-2e69-4bcc-afb2-d23fe49930c6",
@@ -37929,17 +38072,6 @@
       "source_names": "Hacker News"
     },
     {
-      "id": "2730a778-57f5-4bf1-82ef-4e90e2a88af3",
-      "title": "\u30d5\u30a3\u30ae\u30e5\u30a2 \u4e2d\u4e95\u4e9c\u7f8e\u304c\u795d\u8cc0\u4f1a\u3067\u6c7a\u610f\u300c\u3088\u308a\u6210\u9577\u3057\u305f\u59ff\u3092\u300d",
-      "topic": "Other",
-      "structured_data": "{\"story_id\": \"2730a778-57f5-4bf1-82ef-4e90e2a88af3\", \"story_title\": \"\\u30d5\\u30a3\\u30ae\\u30e5\\u30a2 \\u4e2d\\u4e95\\u4e9c\\u7f8e\\u304c\\u795d\\u8cc0\\u4f1a\\u3067\\u6c7a\\u610f\\u300c\\u3088\\u308a\\u6210\\u9577\\u3057\\u305f\\u59ff\\u3092\\u300d\", \"events\": [{\"event_id\": \"f4698351-ba8c-4a1a-9450-b59b5c612bb8\", \"event_title\": \"\\u30d5\\u30a3\\u30ae\\u30e5\\u30a2 \\u4e2d\\u4e95\\u4e9c\\u7f8e\\u304c\\u795d\\u8cc0\\u4f1a\\u3067\\u6c7a\\u610f\\u300c\\u3088\\u308a\\u6210\\u9577\\u3057\\u305f\\u59ff\\u3092\\u300d\", \"time_slices\": [{\"timestamp\": \"2026-05-01T08:13:23.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NHK\", \"title\": \"\\u30d5\\u30a3\\u30ae\\u30e5\\u30a2 \\u4e2d\\u4e95\\u4e9c\\u7f8e\\u304c\\u795d\\u8cc0\\u4f1a\\u3067\\u6c7a\\u610f\\u300c\\u3088\\u308a\\u6210\\u9577\\u3057\\u305f\\u59ff\\u3092\\u300d\", \"url\": \"https://news.web.nhk/newsweb/na/na-k10015112701000\", \"stance_keywords\": []}], \"summary_keywords\": []}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"NHK\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"NHK\"]}, \"timeline_summary\": [], \"contradictions\": []}",
-      "created_at": "2026-05-01T08:13:23.000Z",
-      "event_count": 2,
-      "article_count": 2,
-      "source_count": 1,
-      "source_names": "NHK"
-    },
-    {
       "id": "2c3754f5-18ca-42f5-a948-c24126305865",
       "title": "Trumpet call: Malaysians demand Japan return elephants after viral \u2018weeping\u2019 videos",
       "topic": "Other",
@@ -37949,6 +38081,17 @@
       "article_count": 1,
       "source_count": 1,
       "source_names": "SCMP"
+    },
+    {
+      "id": "2730a778-57f5-4bf1-82ef-4e90e2a88af3",
+      "title": "\u30d5\u30a3\u30ae\u30e5\u30a2 \u4e2d\u4e95\u4e9c\u7f8e\u304c\u795d\u8cc0\u4f1a\u3067\u6c7a\u610f\u300c\u3088\u308a\u6210\u9577\u3057\u305f\u59ff\u3092\u300d",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"2730a778-57f5-4bf1-82ef-4e90e2a88af3\", \"story_title\": \"\\u30d5\\u30a3\\u30ae\\u30e5\\u30a2 \\u4e2d\\u4e95\\u4e9c\\u7f8e\\u304c\\u795d\\u8cc0\\u4f1a\\u3067\\u6c7a\\u610f\\u300c\\u3088\\u308a\\u6210\\u9577\\u3057\\u305f\\u59ff\\u3092\\u300d\", \"events\": [{\"event_id\": \"f4698351-ba8c-4a1a-9450-b59b5c612bb8\", \"event_title\": \"\\u30d5\\u30a3\\u30ae\\u30e5\\u30a2 \\u4e2d\\u4e95\\u4e9c\\u7f8e\\u304c\\u795d\\u8cc0\\u4f1a\\u3067\\u6c7a\\u610f\\u300c\\u3088\\u308a\\u6210\\u9577\\u3057\\u305f\\u59ff\\u3092\\u300d\", \"time_slices\": [{\"timestamp\": \"2026-05-01T08:13:23.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NHK\", \"title\": \"\\u30d5\\u30a3\\u30ae\\u30e5\\u30a2 \\u4e2d\\u4e95\\u4e9c\\u7f8e\\u304c\\u795d\\u8cc0\\u4f1a\\u3067\\u6c7a\\u610f\\u300c\\u3088\\u308a\\u6210\\u9577\\u3057\\u305f\\u59ff\\u3092\\u300d\", \"url\": \"https://news.web.nhk/newsweb/na/na-k10015112701000\", \"stance_keywords\": []}], \"summary_keywords\": []}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"NHK\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"NHK\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-05-01T08:13:23.000Z",
+      "event_count": 2,
+      "article_count": 2,
+      "source_count": 1,
+      "source_names": "NHK"
     },
     {
       "id": "e293d06e-e4cd-4637-aabe-66f864e0a5e6",
@@ -39232,8 +39375,8 @@
       "topic": "War",
       "structured_data": "{\"story_id\": \"8f82b01d-870e-4547-b551-8b7adcc04db3\", \"story_title\": \"Mojtaba Khamenei says Iran will protect its 'nuclear, missile capabilities'; U.S. suffered \\u2018disgraceful defeat\\u2019\", \"events\": [{\"event_id\": \"1c051453-337f-4882-85b7-1ce030864a16\", \"event_title\": \"Mojtaba Khamenei says Iran will protect its 'nuclear, missile capabilities'; U.S. suffered \\u2018disgraceful defeat\\u2019\", \"time_slices\": [{\"timestamp\": \"2026-04-30T13:22:27.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"The Hindu\", \"title\": \"Mojtaba Khamenei says Iran will protect its 'nuclear, missile capabilities'; U.S. suffered \\u2018disgraceful defeat\\u2019\", \"url\": \"https://www.thehindu.com/news/international/mojtaba-khamenei-says-iran-will-protect-its-nuclear-missile-capabilities-us-suffered-disgraceful-defeat/article70924450.ece\", \"stance_keywords\": []}], \"summary_keywords\": [\"mojtaba\", \"khamenei\", \"iran\", \"protect\", \"nuclear\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"The Hindu\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"The Hindu\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-30T13:22:27.000Z",
-      "event_count": 7,
-      "article_count": 9,
+      "event_count": 8,
+      "article_count": 11,
       "source_count": 7,
       "source_names": "Straits Times / SCMP / The Hindu / Bloomberg / DW / RT / NYT"
     },
@@ -39617,10 +39760,10 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"5cd30dd5-80a9-42b9-9146-8eab86b5f433\", \"story_title\": \"Minerals over ideology? US embraces pragmatic diplomacy to break China\\u2019s rare earths grip\", \"events\": [{\"event_id\": \"46d80299-6c5f-4bd8-a53a-2a13a06365d6\", \"event_title\": \"Minerals over ideology? US embraces pragmatic diplomacy to break China\\u2019s rare earths grip\", \"time_slices\": [{\"timestamp\": \"2026-04-30T10:00:22.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"Minerals over ideology? US embraces pragmatic diplomacy to break China\\u2019s rare earths grip\", \"url\": \"https://www.scmp.com/news/china/diplomacy/article/3352009/minerals-over-ideology-us-embraces-pragmatic-diplomacy-break-chinas-rare-earth-grip?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"minerals\", \"ideology\", \"embraces\", \"pragmatic\", \"diplomacy\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"SCMP\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-30T10:00:22.000Z",
-      "event_count": 7,
-      "article_count": 10,
-      "source_count": 5,
-      "source_names": "Bloomberg / The Hindu / NYT / Straits Times / SCMP"
+      "event_count": 8,
+      "article_count": 11,
+      "source_count": 6,
+      "source_names": "Bloomberg / The Hindu / NYT / DW / Straits Times / SCMP"
     },
     {
       "id": "7a2d47e1-9417-44fa-a261-15278bd7ef0b",
@@ -40453,10 +40596,10 @@
       "topic": "War",
       "structured_data": "{\"story_id\": \"b737ccbc-799e-4372-b368-27ffd8cdee46\", \"story_title\": \"China\\u2019s Factory Activity Expands Despite Pressures From War\", \"events\": [{\"event_id\": \"38898cd8-3a84-4564-9bbf-8634b0e42afb\", \"event_title\": \"China\\u2019s Factory Activity Expands Despite Pressures From War\", \"time_slices\": [{\"timestamp\": \"2026-04-30T01:39:29.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"China\\u2019s Factory Activity Expands Despite Pressures From War\", \"url\": \"https://www.bloomberg.com/news/articles/2026-04-30/china-s-factory-activity-expands-despite-pressure-from-iran-war\", \"stance_keywords\": []}], \"summary_keywords\": [\"china\", \"factory\", \"activity\", \"expands\", \"despite\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-30T01:39:29.000Z",
-      "event_count": 3,
-      "article_count": 3,
-      "source_count": 2,
-      "source_names": "Bloomberg / SCMP"
+      "event_count": 4,
+      "article_count": 5,
+      "source_count": 3,
+      "source_names": "Bloomberg / The Hindu / SCMP"
     },
     {
       "id": "7013560c-0e47-441c-ba59-e177ef19d46f",
@@ -40508,8 +40651,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"843caadc-ce92-4ca3-ba5a-c18eef81fbf3\", \"story_title\": \"US Urged to Turn \\u2018Rhetoric Into Reality\\u2019 on Pacific Fuel Supply\", \"events\": [{\"event_id\": \"508896e2-0ddb-4c24-9bb2-7c3562683bb8\", \"event_title\": \"US Urged to Turn \\u2018Rhetoric Into Reality\\u2019 on Pacific Fuel Supply\", \"time_slices\": [{\"timestamp\": \"2026-04-30T01:09:13.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"US Urged to Turn \\u2018Rhetoric Into Reality\\u2019 on Pacific Fuel Supply\", \"url\": \"https://www.bloomberg.com/news/articles/2026-04-30/us-urged-to-turn-rhetoric-into-reality-on-pacific-fuel-supply\", \"stance_keywords\": []}], \"summary_keywords\": [\"urged\", \"turn\", \"rhetoric\", \"into\", \"reality\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-30T01:09:13.000Z",
-      "event_count": 4,
-      "article_count": 6,
+      "event_count": 5,
+      "article_count": 7,
       "source_count": 4,
       "source_names": "Bloomberg / Aeon / AllAfrica / SCMP"
     },
@@ -42692,17 +42835,6 @@
       "source_names": "Bloomberg"
     },
     {
-      "id": "b098ca68-bf49-4607-924b-24358f9e3ac6",
-      "title": "Europe climate report signals rising extremes",
-      "topic": "Other",
-      "structured_data": "{\"story_id\": \"b098ca68-bf49-4607-924b-24358f9e3ac6\", \"story_title\": \"Europe climate report signals rising extremes\", \"events\": [{\"event_id\": \"ee09b279-9af5-4bb7-a040-f9a6d8f9d954\", \"event_title\": \"Europe climate report signals rising extremes\", \"time_slices\": [{\"timestamp\": \"2026-04-29T02:34:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Europe climate report signals rising extremes\", \"url\": \"https://www.straitstimes.com/world/europe/europe-climate-report-signals-rising-extremes\", \"stance_keywords\": []}], \"summary_keywords\": [\"europe\", \"climate\", \"report\", \"signals\", \"rising\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\"]}, \"timeline_summary\": [], \"contradictions\": []}",
-      "created_at": "2026-04-29T02:34:00.000Z",
-      "event_count": 1,
-      "article_count": 1,
-      "source_count": 1,
-      "source_names": "Straits Times"
-    },
-    {
       "id": "f3b407cd-8899-41a9-9a6d-b79f8350163c",
       "title": "An experimental cafe run by AI opens in Stockholm",
       "topic": "Tech",
@@ -42712,6 +42844,17 @@
       "article_count": 2,
       "source_count": 2,
       "source_names": "Straits Times / Bloomberg"
+    },
+    {
+      "id": "b098ca68-bf49-4607-924b-24358f9e3ac6",
+      "title": "Europe climate report signals rising extremes",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"b098ca68-bf49-4607-924b-24358f9e3ac6\", \"story_title\": \"Europe climate report signals rising extremes\", \"events\": [{\"event_id\": \"ee09b279-9af5-4bb7-a040-f9a6d8f9d954\", \"event_title\": \"Europe climate report signals rising extremes\", \"time_slices\": [{\"timestamp\": \"2026-04-29T02:34:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"Europe climate report signals rising extremes\", \"url\": \"https://www.straitstimes.com/world/europe/europe-climate-report-signals-rising-extremes\", \"stance_keywords\": []}], \"summary_keywords\": [\"europe\", \"climate\", \"report\", \"signals\", \"rising\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Straits Times\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Straits Times\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-04-29T02:34:00.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "Straits Times"
     },
     {
       "id": "00fc3c7f-e3bb-44e3-8bd5-b1ec4390f857",
@@ -43336,9 +43479,9 @@
       "structured_data": "{\"story_id\": \"221620eb-a271-4a70-ab3c-49dc25ac695e\", \"story_title\": \"Budget Fears Weigh on Defense Stocks Ahead of Hegseth Testimony\", \"events\": [{\"event_id\": \"9f69770b-e1ff-4c48-9b4d-6f83908edff4\", \"event_title\": \"Budget Fears Weigh on Defense Stocks Ahead of Hegseth Testimony\", \"time_slices\": [{\"timestamp\": \"2026-04-28T17:57:51.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"Budget Fears Weigh on Defense Stocks Ahead of Hegseth Testimony\", \"url\": \"https://www.bloomberg.com/news/articles/2026-04-28/budget-fears-weigh-on-defense-stocks-ahead-of-hegseth-testimony\", \"stance_keywords\": []}], \"summary_keywords\": [\"budget\", \"fears\", \"weigh\", \"defense\", \"stocks\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-28T17:57:51.000Z",
       "event_count": 4,
-      "article_count": 7,
-      "source_count": 1,
-      "source_names": "Bloomberg"
+      "article_count": 8,
+      "source_count": 2,
+      "source_names": "Bloomberg / The Hindu"
     },
     {
       "id": "433d9db0-870d-491b-b169-f5c91f2b02fe",
@@ -44029,7 +44172,7 @@
       "structured_data": "{\"story_id\": \"1034d147-0b1b-4d6c-9aa7-61e88651a7b9\", \"story_title\": \"What next for Manchester United with Champions League return almost sealed?\", \"events\": [{\"event_id\": \"1c4f8adf-19b3-43e0-8f24-aac50eb16039\", \"event_title\": \"What next for Manchester United with Champions League return almost sealed?\", \"time_slices\": [{\"timestamp\": \"2026-04-28T12:02:30.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Al Jazeera\", \"title\": \"What next for Manchester United with Champions League return almost sealed?\", \"url\": \"https://www.aljazeera.com/sports/2026/4/28/what-next-for-manchester-united-with-champions-league-return-almost-sealed?traffic_source=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"what\", \"next\", \"manchester\", \"united\", \"champions\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Al Jazeera\": 1}, \"country_distribution\": {\"Middle East\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Al Jazeera\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-28T12:02:30.000Z",
       "event_count": 9,
-      "article_count": 23,
+      "article_count": 24,
       "source_count": 6,
       "source_names": "BBC / DW / RT / The Hindu / Al Jazeera / AllAfrica"
     },
@@ -46261,8 +46404,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"434a0491-03a8-4734-ad7b-650a04a88a0f\", \"story_title\": \"Show HN: A terminal spreadsheet editor with Vim keybindings\", \"events\": [{\"event_id\": \"6b0ee3a5-b401-4e3a-a19a-a85a54866c8c\", \"event_title\": \"Show HN: A terminal spreadsheet editor with Vim keybindings\", \"time_slices\": [{\"timestamp\": \"2026-04-27T11:39:49.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Hacker News\", \"title\": \"Show HN: A terminal spreadsheet editor with Vim keybindings\", \"url\": \"https://github.com/garritfra/cell\", \"stance_keywords\": []}], \"summary_keywords\": [\"show\", \"terminal\", \"spreadsheet\", \"editor\", \"keybindings\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Hacker News\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Hacker News\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-27T11:39:49.000Z",
-      "event_count": 2,
-      "article_count": 2,
+      "event_count": 3,
+      "article_count": 3,
       "source_count": 1,
       "source_names": "Hacker News"
     },
@@ -46327,8 +46470,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"91bf1611-1748-4cdf-a4fa-3827d039ceec\", \"story_title\": \"PLA showcases YJ-20 hypersonic missiles as Balikatan drills heat up South China Sea\", \"events\": [{\"event_id\": \"fdefd067-1e51-4f28-9191-02c1e94f8927\", \"event_title\": \"PLA showcases YJ-20 hypersonic missiles as Balikatan drills heat up South China Sea\", \"time_slices\": [{\"timestamp\": \"2026-04-27T11:13:09.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"PLA showcases YJ-20 hypersonic missiles as Balikatan drills heat up South China Sea\", \"url\": \"https://www.scmp.com/news/china/military/article/3351593/pla-showcases-yj-20-hypersonic-missiles-balikatan-drills-heat-south-china-sea?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"showcases\", \"hypersonic\", \"missiles\", \"balikatan\", \"drills\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"SCMP\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-27T11:13:09.000Z",
-      "event_count": 8,
-      "article_count": 10,
+      "event_count": 9,
+      "article_count": 11,
       "source_count": 4,
       "source_names": "The Hindu / RT / SCMP / Straits Times"
     },
@@ -47262,8 +47405,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"b01cfdb0-ebe9-45a6-bb4d-865e770fd90d\", \"story_title\": \"Nickel Rises to Two-Year High as Supplies From Indonesia Tighten\", \"events\": [{\"event_id\": \"4c24e766-435a-41b0-af31-30ddc94bd089\", \"event_title\": \"Nickel Rises to Two-Year High as Supplies From Indonesia Tighten\", \"time_slices\": [{\"timestamp\": \"2026-04-27T02:32:59.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Bloomberg\", \"title\": \"Nickel Rises to Two-Year High as Supplies From Indonesia Tighten\", \"url\": \"https://www.bloomberg.com/news/articles/2026-04-27/nickel-rises-to-two-year-high-as-supplies-from-indonesia-tighten\", \"stance_keywords\": []}], \"summary_keywords\": [\"nickel\", \"rises\", \"year\", \"high\", \"supplies\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Bloomberg\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Bloomberg\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-27T02:32:59.000Z",
-      "event_count": 8,
-      "article_count": 8,
+      "event_count": 9,
+      "article_count": 9,
       "source_count": 3,
       "source_names": "Straits Times / Al Jazeera / Bloomberg"
     },
@@ -48263,8 +48406,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"971e37c3-9bcf-4e05-b3ab-9c626ac6da9a\", \"story_title\": \"Sri Lanka seeks investors for loss-making Mattala airport in Hambantota\", \"events\": [{\"event_id\": \"643b6c8f-f59c-4b40-8fed-e24d0a4760d7\", \"event_title\": \"Sri Lanka seeks investors for loss-making Mattala airport in Hambantota\", \"time_slices\": [{\"timestamp\": \"2026-04-26T07:29:49.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"The Hindu\", \"title\": \"Sri Lanka seeks investors for loss-making Mattala airport in Hambantota\", \"url\": \"https://www.thehindu.com/news/international/sri-lanka-seeks-investors-for-loss-making-mattala-airport-in-hambantota/article70908035.ece\", \"stance_keywords\": []}], \"summary_keywords\": [\"lanka\", \"seeks\", \"investors\", \"loss\", \"making\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"The Hindu\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"The Hindu\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-26T07:29:49.000Z",
-      "event_count": 14,
-      "article_count": 14,
+      "event_count": 15,
+      "article_count": 15,
       "source_count": 3,
       "source_names": "SCMP / The Hindu / Bloomberg"
     },
@@ -48692,8 +48835,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"28d1b34f-0abe-4b28-890c-0802402c4ca1\", \"story_title\": \"Why has there been so little progress on Alzheimer's disease?\", \"events\": [{\"event_id\": \"7834122d-0ca5-45be-9b4f-9eac9df8a04b\", \"event_title\": \"Why has there been so little progress on Alzheimer's disease?\", \"time_slices\": [{\"timestamp\": \"2026-04-26T00:12:47.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Hacker News\", \"title\": \"Why has there been so little progress on Alzheimer's disease?\", \"url\": \"https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/\", \"stance_keywords\": []}], \"summary_keywords\": [\"there\", \"been\", \"little\", \"progress\", \"alzheimer\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Hacker News\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Hacker News\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-26T00:12:47.000Z",
-      "event_count": 7,
-      "article_count": 7,
+      "event_count": 8,
+      "article_count": 8,
       "source_count": 6,
       "source_names": "NYT / Bloomberg / Hacker News / AllAfrica / Al Jazeera / Straits Times"
     },
@@ -48824,10 +48967,10 @@
       "topic": "Politics",
       "structured_data": "{\"story_id\": \"c5be88b0-960a-4510-90ae-cb909feb8c16\", \"story_title\": \"Trump puts onus on Iran\\u2019s authorities as they project hardened stance\", \"events\": [{\"event_id\": \"16cbe17b-29fa-45cf-971e-f190ce21c3a7\", \"event_title\": \"Trump puts onus on Iran\\u2019s authorities as they project hardened stance\", \"time_slices\": [{\"timestamp\": \"2026-04-25T19:54:57.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Al Jazeera\", \"title\": \"Trump puts onus on Iran\\u2019s authorities as they project hardened stance\", \"url\": \"https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"trump\", \"puts\", \"onus\", \"iran\", \"authorities\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Al Jazeera\": 1}, \"country_distribution\": {\"Middle East\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Al Jazeera\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-25T19:54:57.000Z",
-      "event_count": 2,
-      "article_count": 2,
-      "source_count": 1,
-      "source_names": "Al Jazeera"
+      "event_count": 3,
+      "article_count": 3,
+      "source_count": 2,
+      "source_names": "Al Jazeera / Straits Times"
     },
     {
       "id": "3b7f15a5-28c8-474d-bd8d-e726ed76bcfd",
@@ -50749,8 +50892,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"bde18918-bcd8-4f13-bb73-6fb283277bc4\", \"story_title\": \"Alcaraz\\u2019s French Open threepeat dream ended by wrist injury\", \"events\": [{\"event_id\": \"8efc6592-f86f-4ca4-adf0-5f668c401c66\", \"event_title\": \"Alcaraz\\u2019s French Open threepeat dream ended by wrist injury\", \"time_slices\": [{\"timestamp\": \"2026-04-24T17:35:05.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Al Jazeera\", \"title\": \"Alcaraz\\u2019s French Open threepeat dream ended by wrist injury\", \"url\": \"https://www.aljazeera.com/sports/2026/4/24/alcaraz-to-miss-french-open-defence-with-wrist-injury?traffic_source=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"alcaraz\", \"french\", \"open\", \"threepeat\", \"dream\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Al Jazeera\": 1}, \"country_distribution\": {\"Middle East\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Al Jazeera\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-24T17:35:05.000Z",
-      "event_count": 10,
-      "article_count": 12,
+      "event_count": 11,
+      "article_count": 13,
       "source_count": 2,
       "source_names": "Al Jazeera / BBC"
     },
@@ -50980,8 +51123,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"b594677c-8b90-4946-868b-a4d34b29ba2d\", \"story_title\": \"Timberwolves take 2-1 NBA playoff lead over Nuggets, Hawks down Knicks\", \"events\": [{\"event_id\": \"64d31f25-90ca-4a60-a872-0b9c18cdcdd1\", \"event_title\": \"Timberwolves take 2-1 NBA playoff lead over Nuggets, Hawks down Knicks\", \"time_slices\": [{\"timestamp\": \"2026-04-24T16:21:26.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Al Jazeera\", \"title\": \"Timberwolves take 2-1 NBA playoff lead over Nuggets, Hawks down Knicks\", \"url\": \"https://www.aljazeera.com/sports/2026/4/24/timberwolves-take-2-1-nba-playoff-lead-over-nuggets-hawks-down-knicks?traffic_source=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"timberwolves\", \"take\", \"playoff\", \"lead\", \"nuggets\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Al Jazeera\": 1}, \"country_distribution\": {\"Middle East\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Al Jazeera\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-24T16:21:26.000Z",
-      "event_count": 10,
-      "article_count": 11,
+      "event_count": 11,
+      "article_count": 12,
       "source_count": 1,
       "source_names": "Al Jazeera"
     },
@@ -51299,8 +51442,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"c0db061b-abd0-4476-bef0-11d33bf0ff12\", \"story_title\": \"South Korea and US in showdown over Coupang meddling, testing ties\", \"events\": [{\"event_id\": \"40c3614d-3f3c-4c73-8bac-16a2df6f471f\", \"event_title\": \"South Korea says security talks with U.S. should not be linked to Coupang probe\", \"time_slices\": [{\"timestamp\": \"2026-04-22T19:40:42.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"The Hindu\", \"title\": \"South Korea says security talks with U.S. should not be linked to Coupang probe\", \"url\": \"https://www.thehindu.com/news/international/south-korea-says-security-talks-with-us-should-not-be-linked-to-coupang-probe/article70892259.ece\", \"stance_keywords\": []}], \"summary_keywords\": [\"south\", \"korea\", \"security\", \"talks\", \"should\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"f51f60dd-b475-4c92-a91b-5cd98b9432e7\", \"event_title\": \"South Korea and US in showdown over Coupang meddling, testing ties\", \"time_slices\": [{\"timestamp\": \"2026-04-24T15:30:39.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"South Korea and US in showdown over Coupang meddling, testing ties\", \"url\": \"https://www.scmp.com/news/asia/east-asia/article/3351272/south-korea-and-us-showdown-over-coupang-meddling-testing-ties?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"south\", \"korea\", \"showdown\", \"coupang\", \"meddling\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"The Hindu\": 1, \"SCMP\": 1}, \"country_distribution\": {\"Asia\": 2}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"The Hindu\", \"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-24T15:30:39.000Z",
-      "event_count": 57,
-      "article_count": 71,
+      "event_count": 58,
+      "article_count": 72,
       "source_count": 8,
       "source_names": "The Hindu / NYT / DW / Bloomberg / BBC / SCMP / Al Jazeera / Straits Times"
     },
@@ -51674,7 +51817,7 @@
       "structured_data": "{\"story_id\": \"d6a77f69-d863-4feb-bb89-cc895364cdcb\", \"story_title\": \"\\u30a4\\u30e9\\u30f3\\u304c\\u6d77\\u5ce1\\u3067\\u5546\\u82395\\u96bb\\u653b\\u6483 \\u7c73\\u8ecd\", \"events\": [{\"event_id\": \"41f73c26-a53c-48da-bca3-fdc989019dc5\", \"event_title\": \"\\u30a4\\u30e9\\u30f3\\u304c\\u6d77\\u5ce1\\u3067\\u5546\\u82395\\u96bb\\u653b\\u6483 \\u7c73\\u8ecd\", \"time_slices\": [{\"timestamp\": \"2026-04-24T14:40:07.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Yahoo World\", \"title\": \"\\u30a4\\u30e9\\u30f3\\u304c\\u6d77\\u5ce1\\u3067\\u5546\\u82395\\u96bb\\u653b\\u6483 \\u7c73\\u8ecd\", \"url\": \"https://news.yahoo.co.jp/pickup/6577514?source=rss\", \"stance_keywords\": []}], \"summary_keywords\": []}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Yahoo World\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Yahoo World\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-24T14:40:07.000Z",
       "event_count": 5,
-      "article_count": 6,
+      "article_count": 7,
       "source_count": 1,
       "source_names": "Yahoo World"
     },
@@ -51695,8 +51838,8 @@
       "topic": "Politics",
       "structured_data": "{\"story_id\": \"d44050dd-bd21-4f8e-8aa3-468df33665c6\", \"story_title\": \"Trump extends Iran ceasefire; Hong Kong actress\\u2019 second cancer shock: SCMP\\u2019s 7 highlights\", \"events\": [{\"event_id\": \"1554d942-44e4-4acb-9fbe-b4d1a60ac2ee\", \"event_title\": \"Trump extends Iran ceasefire, warns of force if blockade fails to yield deal: As it happened\", \"time_slices\": [{\"timestamp\": \"2026-04-21T19:04:54.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"RT\", \"title\": \"Trump extends Iran ceasefire, warns of force if blockade fails to yield deal: As it happened\", \"url\": \"https://www.rt.com/news/638802-us-iran-talks-second-round/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\", \"stance_keywords\": []}], \"summary_keywords\": [\"trump\", \"extends\", \"iran\", \"ceasefire\", \"warns\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"b26c216b-0944-43d8-8662-065d585b5dd0\", \"event_title\": \"All Hong Kong public universities make Asian league table top 100 for first time\", \"time_slices\": [{\"timestamp\": \"2026-04-23T22:02:58.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"All Hong Kong public universities make Asian league table top 100 for first time\", \"url\": \"https://www.scmp.com/news/hong-kong/education/article/3351201/all-hong-kong-public-universities-make-asian-league-table-top-100-first-time?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"hong\", \"kong\", \"public\", \"universities\", \"make\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"78e754fe-8fb3-421c-a138-a7e947616bf3\", \"event_title\": \"Man dies after fainting on Cathay Pacific flight from UK to Hong Kong\", \"time_slices\": [{\"timestamp\": \"2026-04-24T10:41:29.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"Man dies after fainting on Cathay Pacific flight from UK to Hong Kong\", \"url\": \"https://www.scmp.com/news/hong-kong/article/3351228/man-dies-after-fainting-cathay-pacific-flight-uk-hong-kong?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"dies\", \"fainting\", \"cathay\", \"pacific\", \"flight\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"29ae6b7b-42d2-4f6e-9785-26fcb408041e\", \"event_title\": \"Trump extends Iran ceasefire; Hong Kong actress\\u2019 second cancer shock: SCMP\\u2019s 7 highlights\", \"time_slices\": [{\"timestamp\": \"2026-04-24T14:30:07.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"Trump extends Iran ceasefire; Hong Kong actress\\u2019 second cancer shock: SCMP\\u2019s 7 highlights\", \"url\": \"https://www.scmp.com/news/world/article/3351072/trump-extends-iran-ceasefire-hong-kong-actress-second-cancer-shock-scmps-7-highlights?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"trump\", \"extends\", \"iran\", \"ceasefire\", \"hong\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"RT\": 1, \"SCMP\": 3}, \"country_distribution\": {\"Russia\": 1, \"Asia\": 3}, \"spread_type\": \"REGIONAL\"}, \"interest\": {\"coverage_bias\": \"Heavily driven by SCMP\", \"dominant_sources\": [\"SCMP\", \"RT\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-24T14:30:07.000Z",
-      "event_count": 344,
-      "article_count": 372,
+      "event_count": 346,
+      "article_count": 374,
       "source_count": 9,
       "source_names": "BBC / RT / NYT / Bloomberg / DW / The Hindu / Al Jazeera / Straits Times / SCMP"
     },
@@ -52201,8 +52344,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"bd0e3ab1-592e-43f6-a8bd-981819e9b871\", \"story_title\": \"Contractors must justify shutdowns under tighter scrutiny, fire chief tells Tai Po probe \\u2013 as it happened\", \"events\": [{\"event_id\": \"f2bd54fb-eda4-42fd-979b-c1a79439bf3f\", \"event_title\": \"Avoid men, German police association chief tells women\", \"time_slices\": [{\"timestamp\": \"2026-04-22T19:16:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"Avoid men, German police association chief tells women\", \"url\": \"https://www.dw.com/en/avoid-men-german-police-association-chief-tells-women/a-76893402?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"avoid\", \"german\", \"police\", \"association\", \"chief\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"72cf57e6-d6ab-4789-b35f-927cf39eaa59\", \"event_title\": \"Contractors must justify shutdowns under tighter scrutiny, fire chief tells Tai Po probe \\u2013 as it happened\", \"time_slices\": [{\"timestamp\": \"2026-04-24T12:07:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"Contractors must justify shutdowns under tighter scrutiny, fire chief tells Tai Po probe \\u2013 as it happened\", \"url\": \"https://www.scmp.com/news/hong-kong/society/article/3351232/tai-po-fire-probe-water-pressure-could-only-reach-20th-floor-commander-says?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"contractors\", \"must\", \"justify\", \"shutdowns\", \"under\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"DW\": 1, \"SCMP\": 1}, \"country_distribution\": {\"Europe\": 1, \"Asia\": 1}, \"spread_type\": \"REGIONAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"DW\", \"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-24T12:07:00.000Z",
-      "event_count": 15,
-      "article_count": 18,
+      "event_count": 16,
+      "article_count": 19,
       "source_count": 2,
       "source_names": "DW / SCMP"
     },
@@ -52218,17 +52361,6 @@
       "source_names": "Hacker News / DW / NYT / Bloomberg / Straits Times / SCMP"
     },
     {
-      "id": "bc744cd1-3c4c-4953-9bfb-7c07fc770171",
-      "title": "Will China\u2019s deal with Australian mining giant BHP boost yuan internationalisation?",
-      "topic": "Other",
-      "structured_data": "{\"story_id\": \"bc744cd1-3c4c-4953-9bfb-7c07fc770171\", \"story_title\": \"Will China\\u2019s deal with Australian mining giant BHP boost yuan internationalisation?\", \"events\": [{\"event_id\": \"300fb6fc-f228-48e5-aeb4-6eac7317db11\", \"event_title\": \"Will China\\u2019s deal with Australian mining giant BHP boost yuan internationalisation?\", \"time_slices\": [{\"timestamp\": \"2026-04-24T12:00:09.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"Will China\\u2019s deal with Australian mining giant BHP boost yuan internationalisation?\", \"url\": \"https://www.scmp.com/economy/china-economy/article/3351333/will-chinas-deal-australian-mining-giant-bhp-boost-yuan-internationalisation?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"china\", \"deal\", \"australian\", \"mining\", \"giant\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"SCMP\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
-      "created_at": "2026-04-24T12:00:09.000Z",
-      "event_count": 2,
-      "article_count": 2,
-      "source_count": 1,
-      "source_names": "SCMP"
-    },
-    {
       "id": "f59db59b-3ef9-4189-bc23-275a78c193f2",
       "title": "How fake military job ads in Philippines led to alleged spy recruitment pipeline",
       "topic": "War",
@@ -52236,6 +52368,17 @@
       "created_at": "2026-04-24T12:00:09.000Z",
       "event_count": 1,
       "article_count": 1,
+      "source_count": 1,
+      "source_names": "SCMP"
+    },
+    {
+      "id": "bc744cd1-3c4c-4953-9bfb-7c07fc770171",
+      "title": "Will China\u2019s deal with Australian mining giant BHP boost yuan internationalisation?",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"bc744cd1-3c4c-4953-9bfb-7c07fc770171\", \"story_title\": \"Will China\\u2019s deal with Australian mining giant BHP boost yuan internationalisation?\", \"events\": [{\"event_id\": \"300fb6fc-f228-48e5-aeb4-6eac7317db11\", \"event_title\": \"Will China\\u2019s deal with Australian mining giant BHP boost yuan internationalisation?\", \"time_slices\": [{\"timestamp\": \"2026-04-24T12:00:09.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"Will China\\u2019s deal with Australian mining giant BHP boost yuan internationalisation?\", \"url\": \"https://www.scmp.com/economy/china-economy/article/3351333/will-chinas-deal-australian-mining-giant-bhp-boost-yuan-internationalisation?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"china\", \"deal\", \"australian\", \"mining\", \"giant\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"SCMP\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-04-24T12:00:09.000Z",
+      "event_count": 2,
+      "article_count": 2,
       "source_count": 1,
       "source_names": "SCMP"
     },
@@ -52906,7 +53049,7 @@
       "structured_data": "{\"story_id\": \"4b38abda-38aa-4f2d-9c2b-daf8ecd08fe3\", \"story_title\": \"\\u7c73\\u5927\\u7d71\\u9818 \\u30ec\\u30d0\\u30ce\\u30f3\\u505c\\u62263\\u9031\\u9593\\u5ef6\\u9577\", \"events\": [{\"event_id\": \"9e05b414-370f-4a5e-b19c-144242b74e1e\", \"event_title\": \"\\u7c73\\u5927\\u7d71\\u9818 \\u30ec\\u30d0\\u30ce\\u30f3\\u505c\\u62263\\u9031\\u9593\\u5ef6\\u9577\", \"time_slices\": [{\"timestamp\": \"2026-04-24T07:11:01.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Yahoo World\", \"title\": \"\\u7c73\\u5927\\u7d71\\u9818 \\u30ec\\u30d0\\u30ce\\u30f3\\u505c\\u62263\\u9031\\u9593\\u5ef6\\u9577\", \"url\": \"https://news.yahoo.co.jp/pickup/6577381?source=rss\", \"stance_keywords\": []}], \"summary_keywords\": []}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Yahoo World\": 1}, \"country_distribution\": {\"Asia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Yahoo World\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-24T07:11:01.000Z",
       "event_count": 12,
-      "article_count": 15,
+      "article_count": 16,
       "source_count": 1,
       "source_names": "Yahoo World"
     },
@@ -53037,8 +53180,8 @@
       "topic": "War",
       "structured_data": "{\"story_id\": \"830c082b-6a5e-4bef-bd8e-ba4cc1d0d85f\", \"story_title\": \"Lebanese Journalist Killed in Israeli Strike Was Known for Being Intrepid\", \"events\": [{\"event_id\": \"3f30614b-0ce4-4096-abc5-c304a37e170e\", \"event_title\": \"Israeli Strikes Kill a Journalist and Injure Another in Lebanon\", \"time_slices\": [{\"timestamp\": \"2026-04-23T02:43:04.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"The Hindu\", \"title\": \"Israeli strikes kill 3 in Lebanon, Beirut to seek truce extension\", \"url\": \"https://www.thehindu.com/news/international/israeli-strikes-kill-3-in-lebanon-beirut-to-seek-truce-extension/article70894377.ece\", \"stance_keywords\": [\"beirut\", \"seek\", \"truce\"]}], \"summary_keywords\": [\"israeli\", \"strikes\", \"kill\", \"lebanon\", \"beirut\"]}, {\"timestamp\": \"2026-04-23T10:43:04.000Z\", \"phase\": \"RESPONSE\", \"articles\": [{\"source\": \"NYT\", \"title\": \"Israeli Strikes Kill a Journalist and Injure Another in Lebanon\", \"url\": \"https://www.nytimes.com/2026/04/22/world/middleeast/journalist-killed-israel-lebanon-strikes.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"israeli\", \"strikes\", \"kill\", \"journalist\", \"injure\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"ac40d010-fb9b-4f70-afe4-6484dc17d897\", \"event_title\": \"Lebanese Journalist Killed in Israeli Strike Was Known for Being Intrepid\", \"time_slices\": [{\"timestamp\": \"2026-04-23T12:38:31.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"RT\", \"title\": \"Lebanon accuses Israel of war crimes after another journalist killed\", \"url\": \"https://www.rt.com/news/638951-lebanon-journalists-israel-war-crimes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\", \"stance_keywords\": [\"lebanon\", \"accuses\", \"israel\"]}, {\"source\": \"BBC\", \"title\": \"Lebanon accuses Israel of targeting journalist killed in air strike\", \"url\": \"https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss\", \"stance_keywords\": [\"lebanon\", \"accuses\", \"israel\"]}], \"summary_keywords\": [\"lebanon\", \"accuses\", \"israel\", \"journalist\", \"killed\"]}, {\"timestamp\": \"2026-04-24T04:38:31.000Z\", \"phase\": \"EXPANSION\", \"articles\": [{\"source\": \"NYT\", \"title\": \"Lebanese Journalist Killed in Israeli Strike Was Known for Being Intrepid\", \"url\": \"https://www.nytimes.com/2026/04/23/world/middleeast/lebanese-journalist-amal-khalil-killed-israeli-strike.html\", \"stance_keywords\": []}, {\"source\": \"Al Jazeera\", \"title\": \"Funeral held for journalist killed in targeted Israeli strike\", \"url\": \"https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss\", \"stance_keywords\": [\"funeral\", \"held\", \"targeted\"]}], \"summary_keywords\": [\"journalist\", \"killed\", \"israeli\", \"strike\", \"lebanese\"]}], \"evolution\": {\"keyword_transitions\": [\"lebanon/accuses -> journalist/killed\"], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"The Hindu\": 1, \"NYT\": 2, \"RT\": 1, \"BBC\": 1, \"Al Jazeera\": 1}, \"country_distribution\": {\"Asia\": 1, \"US\": 2, \"Russia\": 1, \"Europe\": 1, \"Middle East\": 1}, \"spread_type\": \"GLOBAL\"}, \"interest\": {\"coverage_bias\": \"Globally balanced coverage\", \"dominant_sources\": [\"NYT\", \"The Hindu\", \"RT\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-24T06:02:19.000Z",
-      "event_count": 32,
-      "article_count": 46,
+      "event_count": 33,
+      "article_count": 47,
       "source_count": 6,
       "source_names": "BBC / NYT / RT / The Hindu / Al Jazeera / Straits Times"
     },
@@ -53202,8 +53345,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"f82a6870-ab2d-4a50-ba2e-e790f7d421a1\", \"story_title\": \"Touring Africa, Pope Leo Raised His Voice, but Didn\\u2019t Like the Echo\", \"events\": [{\"event_id\": \"7a9b3156-f0a3-4dc8-b2fb-2407166b1bab\", \"event_title\": \"Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour\", \"time_slices\": [{\"timestamp\": \"2026-04-23T20:42:44.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"BBC\", \"title\": \"Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour\", \"url\": \"https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"pope\", \"criticises\", \"equatorial\", \"guinea\", \"prisons\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"df745c96-f5bd-4eeb-bc62-fc1930749079\", \"event_title\": \"Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair\", \"time_slices\": [{\"timestamp\": \"2026-04-23T23:48:18.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NYT\", \"title\": \"Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair\", \"url\": \"https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"pope\", \"visiting\", \"african\", \"prison\", \"urges\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"b1710787-c75b-4f19-b564-e362347ee70d\", \"event_title\": \"Touring Africa, Pope Leo Raised His Voice, but Didn\\u2019t Like the Echo\", \"time_slices\": [{\"timestamp\": \"2026-04-23T03:57:10.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"NYT\", \"title\": \"Pope Leo Is Skipping Some of Africa\\u2019s Biggest Catholic Nations\", \"url\": \"https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html\", \"stance_keywords\": [\"skipping\", \"some\", \"biggest\"]}], \"summary_keywords\": [\"pope\", \"skipping\", \"some\", \"africa\", \"biggest\"]}, {\"timestamp\": \"2026-04-23T19:57:10.000Z\", \"phase\": \"RESPONSE\", \"articles\": [{\"source\": \"DW\", \"title\": \"Pope Leo stresses importance of dialogue on Africa trip\", \"url\": \"https://www.dw.com/en/pope-leo-stresses-importance-of-dialogue-on-africa-trip/a-76906045?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": [\"stresses\", \"importance\", \"dialogue\"]}], \"summary_keywords\": [\"pope\", \"stresses\", \"importance\", \"dialogue\", \"africa\"]}, {\"timestamp\": \"2026-04-23T23:57:10.000Z\", \"phase\": \"ANALYSIS\", \"articles\": [{\"source\": \"NYT\", \"title\": \"Touring Africa, Pope Leo Raised His Voice, but Didn\\u2019t Like the Echo\", \"url\": \"https://www.nytimes.com/2026/04/23/world/europe/pope-leo-africa-trump.html\", \"stance_keywords\": []}], \"summary_keywords\": [\"touring\", \"africa\", \"pope\", \"raised\", \"voice\"]}], \"evolution\": {\"keyword_transitions\": [\"pope/skipping -> touring/africa\"], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"BBC\": 1, \"NYT\": 3, \"DW\": 1}, \"country_distribution\": {\"Europe\": 2, \"US\": 3}, \"spread_type\": \"REGIONAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"NYT\", \"BBC\", \"DW\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-24T03:49:09.000Z",
-      "event_count": 23,
-      "article_count": 58,
+      "event_count": 24,
+      "article_count": 59,
       "source_count": 11,
       "source_names": "NYT / DW / The Hindu / RT / Bloomberg / BBC / Hacker News / SCMP / AllAfrica / Straits Times / Al Jazeera"
     },
@@ -53378,8 +53521,8 @@
       "topic": "Politics",
       "structured_data": "{\"story_id\": \"3007eb27-c78c-4f64-a2c5-d92ed3b1f93e\", \"story_title\": \"My five-minute phone call with President Trump\", \"events\": [{\"event_id\": \"f103b7f6-ba94-4b05-8460-0a8990976bc0\", \"event_title\": \"My phone replaced a brass plug\", \"time_slices\": [{\"timestamp\": \"2026-04-24T01:27:07.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Hacker News\", \"title\": \"My phone replaced a brass plug\", \"url\": \"https://drobinin.com/posts/my-phone-replaced-a-brass-plug/\", \"stance_keywords\": []}], \"summary_keywords\": [\"phone\", \"replaced\", \"brass\", \"plug\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"d9ddfcbe-7927-4ced-ad76-f0ee366233bf\", \"event_title\": \"My five-minute phone call with President Trump\", \"time_slices\": [{\"timestamp\": \"2026-04-24T01:47:18.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"BBC\", \"title\": \"My five-minute phone call with President Trump\", \"url\": \"https://www.bbc.com/news/videos/c624yr5p3kpo?at_medium=RSS&at_campaign=rss\", \"stance_keywords\": []}], \"summary_keywords\": [\"five\", \"minute\", \"phone\", \"call\", \"president\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Hacker News\": 1, \"BBC\": 1}, \"country_distribution\": {\"US\": 1, \"Europe\": 1}, \"spread_type\": \"REGIONAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Hacker News\", \"BBC\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-24T01:47:18.000Z",
-      "event_count": 14,
-      "article_count": 16,
+      "event_count": 15,
+      "article_count": 17,
       "source_count": 9,
       "source_names": "Al Jazeera / Straits Times / BBC / Hacker News / The Hindu / Bloomberg / RT / NYT / DW"
     },
@@ -53653,8 +53796,8 @@
       "topic": "Politics",
       "structured_data": "{\"story_id\": \"9463e5cd-be1b-4f3e-89e6-9decee0b4ab8\", \"story_title\": \"Fifa World Cup: Italy underwhelmed by Trump envoy\\u2019s suggestion they should replace Iran\", \"events\": [{\"event_id\": \"1b834a34-62c2-4672-9b2c-2f6c56b87275\", \"event_title\": \"World Cup 2026: Cost, Trump and travel give fans pause\", \"time_slices\": [{\"timestamp\": \"2026-03-26T17:01:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"World Cup 2026: Cost, Trump and travel give fans pause\", \"url\": \"https://www.dw.com/en/world-cup-2026-cost-trump-and-travel-give-fans-pause/a-76507337?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"world\", \"cost\", \"trump\", \"travel\", \"give\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"5c2b5b9a-f610-4250-a63b-d5e2ad967481\", \"event_title\": \"Amnesty flags FIFA World Cup human rights risks\", \"time_slices\": [{\"timestamp\": \"2026-03-30T09:07:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"Amnesty flags FIFA World Cup human rights risks\", \"url\": \"https://www.dw.com/en/amnesty-flags-fifa-world-cup-human-rights-risks/a-76568979?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"amnesty\", \"flags\", \"fifa\", \"world\", \"human\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"51c0f4cd-fba4-42bc-b0f4-18d6ca9cfa7d\", \"event_title\": \"FIFA World Cup: Which German players will make the final cut?\", \"time_slices\": [{\"timestamp\": \"2026-03-31T17:51:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"FIFA World Cup: Which German players will make the final cut?\", \"url\": \"https://www.dw.com/en/fifa-world-cup-which-german-players-will-make-the-final-cut/a-76602965?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"fifa\", \"world\", \"which\", \"german\", \"players\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"4f86ecd2-826e-43f2-924c-de3a541688a1\", \"event_title\": \"World Cup 2026: Iraq qualify but Iran doubts loom\", \"time_slices\": [{\"timestamp\": \"2026-04-01T17:57:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"FIFA World Cup 2026: Trump's politics put off German fans\", \"url\": \"https://www.dw.com/en/fifa-world-cup-2026-trump-s-politics-put-off-german-fans/a-76611029?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": [\"fifa\", \"trump\", \"politics\"]}], \"summary_keywords\": [\"fifa\", \"world\", \"trump\", \"politics\", \"german\"]}, {\"timestamp\": \"2026-04-01T21:57:00.000Z\", \"phase\": \"RESPONSE\", \"articles\": [{\"source\": \"DW\", \"title\": \"World Cup 2026: Iraq qualify but Iran doubts loom\", \"url\": \"https://www.dw.com/en/world-cup-2026-iraq-qualify-but-iran-doubts-loom/a-76621483?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"world\", \"iraq\", \"qualify\", \"iran\", \"doubts\"]}], \"evolution\": {\"keyword_transitions\": [\"fifa/world -> world/iraq\"], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"be60b442-381d-4304-a434-69f724656d0d\", \"event_title\": \"World Cup 2026: Fans with disabilities 'excluded'\", \"time_slices\": [{\"timestamp\": \"2026-04-16T17:55:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"World Cup 2026: Fans with disabilities 'excluded'\", \"url\": \"https://www.dw.com/en/world-cup-2026-fans-with-disabilities-excluded/a-76796915?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"world\", \"fans\", \"disabilities\", \"excluded\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"80555a74-eaeb-4ea2-93f6-88e96e8c846b\", \"event_title\": \"Fifa World Cup: Italy underwhelmed by Trump envoy\\u2019s suggestion they should replace Iran\", \"time_slices\": [{\"timestamp\": \"2026-04-23T18:16:11.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"RT\", \"title\": \"Italy responds to \\u2018shameful\\u2019 US offer to replace Iran at World Cup\", \"url\": \"https://www.rt.com/news/638956-fifa-iran-italy-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\", \"stance_keywords\": [\"responds\", \"shameful\", \"offer\"]}], \"summary_keywords\": [\"italy\", \"responds\", \"shameful\", \"offer\", \"replace\"]}, {\"timestamp\": \"2026-04-23T22:16:11.000Z\", \"phase\": \"RESPONSE\", \"articles\": [{\"source\": \"SCMP\", \"title\": \"Fifa World Cup: Italy underwhelmed by Trump envoy\\u2019s suggestion they should replace Iran\", \"url\": \"https://www.scmp.com/sport/football/article/3351204/fifa-world-cup-italy-underwhelmed-trump-envoys-suggestion-they-should-replace-iran?utm_source=rss_feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"fifa\", \"world\", \"italy\", \"underwhelmed\", \"trump\"]}, {\"timestamp\": \"2026-04-24T06:16:11.000Z\", \"phase\": \"ANALYSIS\", \"articles\": [{\"source\": \"Straits Times\", \"title\": \"US says Iran players welcome at World Cup amid Italy uproar\", \"url\": \"https://www.straitstimes.com/world/united-states/us-says-it-does-not-object-to-iran-playing-in-world-cup-but-people-with-ties-to-irgc-wont-be-allowed\", \"stance_keywords\": [\"players\", \"welcome\", \"amid\"]}], \"summary_keywords\": [\"iran\", \"players\", \"welcome\", \"world\", \"amid\"]}], \"evolution\": {\"keyword_transitions\": [\"italy/responds -> iran/players\"], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"6b636c62-9736-443d-b9ab-93bcb61d957b\", \"event_title\": \"U.S. says it does not object to Iran playing in World Cup but people with ties to IRGC won't be allowed\", \"time_slices\": [{\"timestamp\": \"2026-04-24T16:02:36.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"The Hindu\", \"title\": \"U.S. says it does not object to Iran playing in World Cup but people with ties to IRGC won't be allowed\", \"url\": \"https://www.thehindu.com/news/international/us-says-it-does-not-object-to-iran-playing-in-world-cup-but-people-with-ties-to-irgc-wont-be-allowed/article70900472.ece\", \"stance_keywords\": []}], \"summary_keywords\": [\"does\", \"object\", \"iran\", \"playing\", \"world\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"DW\": 6, \"RT\": 1, \"SCMP\": 1, \"Straits Times\": 1, \"The Hindu\": 1}, \"country_distribution\": {\"Europe\": 6, \"Russia\": 1, \"Asia\": 3}, \"spread_type\": \"GLOBAL\"}, \"interest\": {\"coverage_bias\": \"Globally balanced coverage\", \"dominant_sources\": [\"DW\", \"RT\", \"SCMP\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-23T23:00:12.000Z",
-      "event_count": 109,
-      "article_count": 168,
+      "event_count": 110,
+      "article_count": 169,
       "source_count": 10,
       "source_names": "BBC / DW / RT / The Hindu / Bloomberg / NYT / Straits Times / Al Jazeera / AllAfrica / SCMP"
     },
@@ -53873,8 +54016,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"bc641c4c-7b0e-4279-a41f-70d3b39471de\", \"story_title\": \"No nature without fear\", \"events\": [{\"event_id\": \"ba4a4066-66f7-4b9c-80ee-fff3fd3e3eb9\", \"event_title\": \"'Drill baby drill' \\u2015 Trump opens up nature to big energy\", \"time_slices\": [{\"timestamp\": \"2026-04-04T15:00:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"'Drill baby drill' \\u2015 Trump opens up nature to big energy\", \"url\": \"https://www.dw.com/en/drill-baby-drill-\\u2015-trump-opens-up-nature-to-big-energy/a-76411423?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"drill\", \"baby\", \"trump\", \"opens\", \"nature\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"0a477d57-6167-4f35-a78a-c25e0329cf6b\", \"event_title\": \"No nature without fear\", \"time_slices\": [{\"timestamp\": \"2026-04-23T19:00:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Aeon\", \"title\": \"No nature without fear\", \"url\": \"https://aeon.co/essays/have-you-forgotten-what-it-means-to-be-afraid-of-nature?utm_source=rss-feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"nature\", \"without\", \"fear\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"DW\": 1, \"Aeon\": 1}, \"country_distribution\": {\"Europe\": 1, \"Global\": 1}, \"spread_type\": \"REGIONAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"DW\", \"Aeon\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-23T19:00:00.000Z",
-      "event_count": 26,
-      "article_count": 29,
+      "event_count": 27,
+      "article_count": 30,
       "source_count": 10,
       "source_names": "Aeon / DW / Bloomberg / NYT / Hacker News / BBC / SCMP / Al Jazeera / Straits Times / AllAfrica"
     },
@@ -54016,8 +54159,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"af9854c4-4c52-4051-b184-59131e5a5d31\", \"story_title\": \"Jiga (YC W21) Is Hiring\", \"events\": [{\"event_id\": \"93615255-7379-4d81-9f91-d0493ed0cb17\", \"event_title\": \"Jiga (YC W21) Is Hiring\", \"time_slices\": [{\"timestamp\": \"2026-04-23T12:02:44.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Hacker News\", \"title\": \"Jiga (YC W21) Is Hiring\", \"url\": \"https://jiga.io/about-us/\", \"stance_keywords\": []}], \"summary_keywords\": [\"jiga\", \"hiring\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Hacker News\": 1}, \"country_distribution\": {\"US\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Hacker News\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-23T12:02:44.000Z",
-      "event_count": 28,
-      "article_count": 31,
+      "event_count": 29,
+      "article_count": 32,
       "source_count": 2,
       "source_names": "Bloomberg / Hacker News"
     },
@@ -54830,8 +54973,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"cdd688f5-1f28-4307-a84d-306947906e7e\", \"story_title\": \"Israeli maps plan to occupy southern Lebanon\", \"events\": [{\"event_id\": \"fd43c01a-f1fe-41cc-bea1-23680e007b4c\", \"event_title\": \"Israeli maps plan to occupy southern Lebanon\", \"time_slices\": [{\"timestamp\": \"2026-04-20T22:52:31.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"RT\", \"title\": \"Israeli maps plan to occupy southern Lebanon\", \"url\": \"https://www.rt.com/news/638761-israel-lebanon-deployment-map/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\", \"stance_keywords\": []}], \"summary_keywords\": [\"israeli\", \"maps\", \"plan\", \"occupy\", \"southern\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"RT\": 1}, \"country_distribution\": {\"Russia\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"RT\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-20T22:52:31.000Z",
-      "event_count": 25,
-      "article_count": 40,
+      "event_count": 26,
+      "article_count": 42,
       "source_count": 7,
       "source_names": "RT / The Hindu / BBC / Hacker News / SCMP / Al Jazeera / Straits Times"
     },
@@ -54885,8 +55028,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"c3af430c-488e-4fe8-a968-6b19ffd87086\", \"story_title\": \"The engineering method\", \"events\": [{\"event_id\": \"5cf07f49-4d8e-4bf0-979a-db47bf23bbb2\", \"event_title\": \"The engineering method\", \"time_slices\": [{\"timestamp\": \"2026-04-20T19:01:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Aeon\", \"title\": \"The engineering method\", \"url\": \"https://aeon.co/videos/many-complex-structures-predate-the-scientific-method-how?utm_source=rss-feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"engineering\", \"method\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Aeon\": 1}, \"country_distribution\": {\"Global\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Aeon\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-20T19:01:00.000Z",
-      "event_count": 12,
-      "article_count": 12,
+      "event_count": 13,
+      "article_count": 13,
       "source_count": 3,
       "source_names": "SCMP / Hacker News / Aeon"
     },
@@ -55221,17 +55364,6 @@
       "source_names": "DW / Bloomberg / Straits Times"
     },
     {
-      "id": "b65a3255-b065-48bb-83ae-1ce5fa96bb52",
-      "title": "Women's workwear: When proper fit becomes a safety issue",
-      "topic": "Other",
-      "structured_data": "{\"story_id\": \"b65a3255-b065-48bb-83ae-1ce5fa96bb52\", \"story_title\": \"Women's workwear: When proper fit becomes a safety issue\", \"events\": [{\"event_id\": \"d68be5eb-dbad-4aac-9446-df24540b0ee3\", \"event_title\": \"Women's workwear: When proper fit becomes a safety issue\", \"time_slices\": [{\"timestamp\": \"2026-04-15T19:01:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"Women's workwear: When proper fit becomes a safety issue\", \"url\": \"https://www.dw.com/en/women-s-workwear-when-proper-fit-becomes-a-safety-issue/a-76777532?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"women\", \"workwear\", \"when\", \"proper\", \"becomes\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"DW\": 1}, \"country_distribution\": {\"Europe\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"DW\"]}, \"timeline_summary\": [], \"contradictions\": []}",
-      "created_at": "2026-04-15T19:01:00.000Z",
-      "event_count": 1,
-      "article_count": 1,
-      "source_count": 1,
-      "source_names": "DW"
-    },
-    {
       "id": "aeb69e67-a997-403b-a002-d781598ac30a",
       "title": "Impromptu",
       "topic": "Other",
@@ -55241,6 +55373,17 @@
       "article_count": 1,
       "source_count": 1,
       "source_names": "Aeon"
+    },
+    {
+      "id": "b65a3255-b065-48bb-83ae-1ce5fa96bb52",
+      "title": "Women's workwear: When proper fit becomes a safety issue",
+      "topic": "Other",
+      "structured_data": "{\"story_id\": \"b65a3255-b065-48bb-83ae-1ce5fa96bb52\", \"story_title\": \"Women's workwear: When proper fit becomes a safety issue\", \"events\": [{\"event_id\": \"d68be5eb-dbad-4aac-9446-df24540b0ee3\", \"event_title\": \"Women's workwear: When proper fit becomes a safety issue\", \"time_slices\": [{\"timestamp\": \"2026-04-15T19:01:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"Women's workwear: When proper fit becomes a safety issue\", \"url\": \"https://www.dw.com/en/women-s-workwear-when-proper-fit-becomes-a-safety-issue/a-76777532?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"women\", \"workwear\", \"when\", \"proper\", \"becomes\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"DW\": 1}, \"country_distribution\": {\"Europe\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"DW\"]}, \"timeline_summary\": [], \"contradictions\": []}",
+      "created_at": "2026-04-15T19:01:00.000Z",
+      "event_count": 1,
+      "article_count": 1,
+      "source_count": 1,
+      "source_names": "DW"
     },
     {
       "id": "6183d95f-c3e3-4de1-b4c7-62a2e977e6f0",
@@ -55424,10 +55567,10 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"09af35bd-8b70-46c5-9a33-2833611225f4\", \"story_title\": \"Veteran German actor Mario Adorf dies aged 95\", \"events\": [{\"event_id\": \"f7f63f53-b28b-4746-b8ad-280621e3ef6a\", \"event_title\": \"Veteran German actor Mario Adorf dies aged 95\", \"time_slices\": [{\"timestamp\": \"2026-04-09T18:15:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"DW\", \"title\": \"Veteran German actor Mario Adorf dies aged 95\", \"url\": \"https://www.dw.com/en/veteran-german-actor-mario-adorf-dies-aged-95/a-76718629?maca=en-rss-en-all-1573-xml-mrss\", \"stance_keywords\": []}], \"summary_keywords\": [\"veteran\", \"german\", \"actor\", \"mario\", \"adorf\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"DW\": 1}, \"country_distribution\": {\"Europe\": 1}, \"spread_type\": \"LOCAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"DW\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-09T18:15:00.000Z",
-      "event_count": 7,
-      "article_count": 9,
-      "source_count": 4,
-      "source_names": "Straits Times / Al Jazeera / BBC / DW"
+      "event_count": 8,
+      "article_count": 10,
+      "source_count": 5,
+      "source_names": "Straits Times / Al Jazeera / BBC / DW / RT"
     },
     {
       "id": "a8a4f735-a561-485a-bc33-962a0f39a9c9",
@@ -55490,8 +55633,8 @@
       "topic": "Other",
       "structured_data": "{\"story_id\": \"cd3312cb-b4aa-477b-96d2-8d2e64579f74\", \"story_title\": \"Living without my self\", \"events\": [{\"event_id\": \"ffba97c1-8056-444c-99ee-16e97f28e4fe\", \"event_title\": \"Living without my self\", \"time_slices\": [{\"timestamp\": \"2026-04-07T19:00:00.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"Aeon\", \"title\": \"Living without my self\", \"url\": \"https://aeon.co/essays/robert-musil-gives-confidence-to-the-no-self-minority-like-me?utm_source=rss-feed\", \"stance_keywords\": []}], \"summary_keywords\": [\"living\", \"without\", \"self\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}, {\"event_id\": \"c2afbf3e-8154-4951-a101-1555eb7df337\", \"event_title\": \"Ukrainians stealing in hopes of living in Dubai \\u2013 US military official to undercover journalist (VIDEO)\", \"time_slices\": [{\"timestamp\": \"2026-04-22T09:36:11.000Z\", \"phase\": \"BREAKING\", \"articles\": [{\"source\": \"RT\", \"title\": \"Ukrainians stealing in hopes of living in Dubai \\u2013 US military official to undercover journalist (VIDEO)\", \"url\": \"https://www.rt.com/news/638890-us-nuclear-iran-undercover-footage/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\", \"stance_keywords\": []}], \"summary_keywords\": [\"ukrainians\", \"stealing\", \"hopes\", \"living\", \"dubai\"]}], \"evolution\": {\"keyword_transitions\": [], \"stance_shift\": \"N/A\"}}], \"structure\": {\"source_distribution\": {\"Aeon\": 1, \"RT\": 1}, \"country_distribution\": {\"Global\": 1, \"Russia\": 1}, \"spread_type\": \"REGIONAL\"}, \"interest\": {\"coverage_bias\": \"Regional focus\", \"dominant_sources\": [\"Aeon\", \"RT\"]}, \"timeline_summary\": [], \"contradictions\": []}",
       "created_at": "2026-04-07T19:00:00.000Z",
-      "event_count": 34,
-      "article_count": 35,
+      "event_count": 35,
+      "article_count": 36,
       "source_count": 10,
       "source_names": "AllAfrica / Straits Times / Al Jazeera / SCMP / Hacker News / Aeon / RT / DW / NYT / The Hindu"
     },
